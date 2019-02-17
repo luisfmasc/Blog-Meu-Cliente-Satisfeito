@@ -12,6 +12,7 @@
 
     <title>Política de privacidade | Meu cliente satisfeito</title>
 	<link href="css/bootstrap-4.2.1.css" rel="stylesheet">
+	<link href="css/style.css" rel="stylesheet">
 	<?php  $menuAtivo = 'privacidade';
 	  include('components/analytcs.html'); ?>
 	<script>gtag('event', 'page_view', {
