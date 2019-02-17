@@ -12,6 +12,14 @@
 
     <title>Meu cliente satisfeito</title>
 	<link href="css/bootstrap-4.2.1.css" rel="stylesheet">
+    
+    <!-- CSS PARA OS SOCIAIS --> 
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/font-awesome.css" rel="stylesheet">
+    <link href="css/docs.css" rel="stylesheet" >
+
+    <link href="css/bootstrap-social.css" rel="stylesheet" >
+    
 	<?php  $menuAtivo = 'home';
 	  include('components/analytcs.html'); ?>
 	<script>gtag('event', 'page_view', {
