@@ -31,5 +31,9 @@
 	<!-- Include all compiled plugins (below), or include individual files as needed -->
 	<script src="js/popper.min.js"></script> 
 	<script src="js/bootstrap-4.2.1.js"></script>
+    
+    <!-- Para uso das redes sociais -->
+    <script src="js/docs.js"></script>
+    <script src="js/jquery.js"></script>
   </body>
 </html>

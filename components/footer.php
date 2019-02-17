@@ -27,3 +27,7 @@
 	<script src="js/jquery-3.3.1.min.js"></script>
 	<script src="js/popper.min.js"></script> 
 	<script src="js/bootstrap-4.2.1.js"></script>
+    
+	<script src="js/docs.js"></script>
+    <script src="js/jquery.js"></script>
+    
