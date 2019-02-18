@@ -18,13 +18,7 @@
 			  <a class="btn btn-social-icon" href="https://www.linkedin.com/company/#" target="_blank" onClick="gtag('event', 'botaoSocial', {'event_category' : 'footer', 'event_label' : 'linkedin'})" title="Siga-nos no Linkedin">
 				<span class="fa fa-linkedin"></span>
 			  </a>
-              
-              
-              	<a class="btn btn-social-icon btn-linkedin">
-    			<span class="fa fa-linkedin"></span>
-  				</a>
-              
-              
+                       
 			</div>			
 		</div>
 	</div>
