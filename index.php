@@ -21,14 +21,13 @@
     <link href="css/bootstrap-social.css" rel="stylesheet" >
     
 	<?php  $menuAtivo = 'home';
-	  include('components/analytcs.html'); ?>
+	  include('components/analytics.html'); ?>
 	<script>gtag('event', 'page_view', {
 		  'send_to': 'UA-110534198-4',
 		});
 	</script>		
   </head>
   <body>
-<?php include('components/brand.php'); ?>
 <?php include('components/menu.php'); ?>
 	  
 <?php include('components/footer.php'); ?>
