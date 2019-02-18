@@ -51,9 +51,9 @@
 					<li class="list-inline-item"><a href="#">Tag9</a></li>
 				</ul>
 			</main>
-			<div class="col-md-3 offset-md-1">
+			<aside class="col-md-3 offset-md-1">
 				<?php include('components/sidebar.php'); ?>
-			</div>
+			</aside>
 		</section>
 	</main>
 	<?php include('components/footer.php'); ?>
