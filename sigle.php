@@ -1,40 +1,39 @@
 <!doctype html>
 <html lang="pt-BR">
-  <head>
-    <meta charset="UTF-8">
+<head>
+	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta property="og:url"                content="https://meuclientesatisfeito.com" />
-	<meta property="og:type"               content="blog" />
-	<meta property="og:title"              content="Meu cliente satisfeito" />
-	<meta property="og:description"        content="" />
-	<meta property="og:image"              content="https://meuclientesatisfeito.com/images/institucional.png" />
-
-    <title>Titulo do post | Meu cliente satisfeito</title>
+	<meta property="og:url" content="https://meuclientesatisfeito.com"/>
+	<meta property="og:type" content="blog"/>
+	<meta property="og:title" content="Meu cliente satisfeito"/>
+	<meta property="og:description" content=""/>
+	<meta property="og:image" content="https://meuclientesatisfeito.com/images/institucional.png"/>
+	<title>Titulo do post | Meu cliente satisfeito</title>
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
 	<link href="css/style.css" rel="stylesheet">
 	<?php  $menuAtivo = 'privacidade';
 	  include('components/analytics.html'); ?>
-	<script>gtag('event', 'page_view', {
-		  'send_to': 'UA-110534198-4',
-		});
-	</script>		
-  </head>
-
+	<script>
+		gtag( 'event', 'page_view', {
+			'send_to': 'UA-110534198-4',
+		} );
+	</script>
+</head>
 
 <body>
 	<header>
 		<?php include('components/menu.php'); ?>
 	</header>
-	
+
 	<main id="politica" class="container">
 		<section class="row">
 			<main class="col-md-8">
 				<h1 class="mt-5">Titulo do post</h1>
 				<small>Data do post, Autor, Categoria/tag</small>
 				<figure class="figure my-5">
-				  <img src="images/bridge-2060820_1280.jpg" class="figure-img img-fluid rounded" alt="A caption for the above image.">
-				  <figcaption class="figure-caption">A caption for the above image.</figcaption>
+					<img src="images/bridge-2060820_1280.jpg" class="figure-img img-fluid rounded" alt="A caption for the above image.">
+					<figcaption class="figure-caption">A caption for the above image.</figcaption>
 				</figure>
 				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque dictum elit turpis, ac mattis urna ullamcorper ut. Ut euismod diam non orci laoreet tristique. Donec sodales, enim sed mollis feugiat, diam nulla aliquet turpis, ac ullamcorper nisl felis eu nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque mattis, elit et sodales hendrerit, mi risus faucibus magna, vitae pretium mi leo vitae sem. Proin tristique et risus ut maximus. Nam et eros dignissim lorem cursus pellentesque. Quisque tortor nisi, ornare vitae venenatis ac, fringilla et magna.</p>
 				<p>Nullam tempus risus ut quam dictum, consectetur ultricies eros lobortis. Integer sed tempus mauris, eget egestas velit. Maecenas in arcu purus. Nullam sapien mi, vehicula ut pellentesque at, luctus in nibh. Donec elementum odio elit. Vestibulum vel tellus quis velit dignissim consectetur. Suspendisse id dictum enim. Donec placerat nisi risus, sit amet posuere massa vehicula eu. Curabitur eleifend aliquam imperdiet. Pellentesque finibus vestibulum arcu, ac malesuada nibh mattis ac. Curabitur pretium ultricies venenatis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent ornare congue lacus, ac eleifend eros accumsan in.</p>
