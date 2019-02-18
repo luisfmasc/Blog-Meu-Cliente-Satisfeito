@@ -16,7 +16,7 @@
 	<?php  $menuAtivo = 'privacidade';
 	  include('components/analytics.html'); ?>
 	<script>gtag('event', 'page_view', {
-		  'send_to': 'UA-110534198-4',
+		  'send_to': 'UA-134713675-1',
 		});
 	</script>		
   </head>
