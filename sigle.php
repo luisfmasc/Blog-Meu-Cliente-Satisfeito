@@ -20,7 +20,6 @@
 		} );
 	</script>
 </head>
-
 <body>
 	<header>
 		<?php include('components/menu.php'); ?>

@@ -12,13 +12,13 @@
   firebase.initializeApp(config);
 
 
-//reference message collection
-let dados = firebase.databsase().ref('info');
+//reference leads collecntion
+let dados = firebase.database().ref('info');
 
 
 
 //Listen para o botão submit
-document.getEelementById('contato').addEventListener('submit', submitForm);
+document.getElementById('contato').addEventListener('submit', submitForm);
 
 
 
