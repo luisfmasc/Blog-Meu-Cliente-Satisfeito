@@ -15,14 +15,7 @@
 
     <title>Meu cliente satisfeito</title>
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
-    
-    <!-- CSS PARA OS SOCIAIS --> 
-    <link href="css/bootstrap.css" rel="stylesheet">
-    <link href="css/font-awesome.css" rel="stylesheet">
-    <link href="css/docs.css" rel="stylesheet" >
-
-    <link href="css/bootstrap-social.css" rel="stylesheet" >
-    
+	<link href="css/style.css" rel="stylesheet">
 	<?php  $menuAtivo = 'home';
 	  include('components/analytics.html'); ?>
 	<script>gtag('event', 'page_view', {

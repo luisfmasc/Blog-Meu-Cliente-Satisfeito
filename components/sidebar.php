@@ -64,27 +64,30 @@
 	<section id="maisLidas" class="my-5">
 		<h4>Mais Lidas</h4>
 		<ul class="maisLidas list-unstyled">
-				<li class="media">
-					<svg class="bd-placeholder-img mr-3" width="100" height="100" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder:100x100"><rect fill="#868e96" width="100%" height="100%"></rect><text fill="#dee2e6" dy="0.15em" x="20%" y="50%">100x100</text></svg>
-					<div class="media-body">
-						<h5><a href="#">Título do Post</a></h5>
-						Pode ter texto aqui, um bigode?
-					</div>
-				</li>
-				<li class="media my-3">
-					<svg class="bd-placeholder-img mr-3" width="100" height="100" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder:120x100"><rect fill="#868e96" width="100%" height="100%"></rect><text fill="#dee2e6" dy="0.15em" x="20%" y="50%">100x100</text></svg>
-					<div class="media-body">
-						<h5><a href="#">Título do Post</a></h5>
-						Pode ter texto aqui, um bigode?
-					</div>
-				</li>
-				<li class="media my-3">
-					<svg class="bd-placeholder-img mr-3" width="100" height="100" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder:100x100"><rect fill="#868e96" width="100%" height="100%"></rect><text fill="#dee2e6" dy="0.15em" x="20%" y="50%">100x100</text></svg>
-					<div class="media-body">
-						<h5><a href="#">Título do Post</a></h5>
-						Pode ter texto aqui, um bigode?
-					</div>
-				</li>
+			<li class="media">
+				<svg class="bd-placeholder-img mr-3" width="100" height="100" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder:100x100">
+					<rect fill="#868e96" width="100%" height="100%"></rect><text fill="#dee2e6" dy="0.15em" x="20%" y="50%">100x100</text>
+				</svg>
+				<div class="media-body">
+					<h5><a href="#">Título do Post</a></h5>
+				</div>
+			</li>
+			<li class="media my-3">
+				<svg class="bd-placeholder-img mr-3" width="100" height="100" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder:120x100">
+					<rect fill="#868e96" width="100%" height="100%"></rect><text fill="#dee2e6" dy="0.15em" x="20%" y="50%">100x100</text>
+				</svg>
+				<div class="media-body">
+					<h5><a href="#">Título do Post</a></h5>
+				</div>
+			</li>
+			<li class="media my-3">
+				<svg class="bd-placeholder-img mr-3" width="100" height="100" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder:100x100">
+					<rect fill="#868e96" width="100%" height="100%"></rect><text fill="#dee2e6" dy="0.15em" x="20%" y="50%">100x100</text>
+				</svg>
+				<div class="media-body">
+					<h5><a href="#">Título do Post</a></h5>
+				</div>
+			</li>
 		</ul>
 
 
@@ -92,3 +95,4 @@
 	<script src="https://www.gstatic.com/firebasejs/5.8.3/firebase.js"></script>
 
 	<script src="main.js"></script>
+	</section>

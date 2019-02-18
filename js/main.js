@@ -1,17 +1,15 @@
 
 
-
-  // Initialize Firebase
-  var config = {
-    apiKey: "AIzaSyAGj059jye8X2eUBIeOKhqrzgJQZb3-lKo",
-    authDomain: "meuclientesatisfeito-554f7.firebaseapp.com",
-    databaseURL: "https://meuclientesatisfeito-554f7.firebaseio.com",
-    projectId: "meuclientesatisfeito-554f7",
-    storageBucket: "meuclientesatisfeito-554f7.appspot.com",
-    messagingSenderId: "157899671633"
+ // Initialize Firebase
+ var config = {
+    apiKey: "AIzaSyAislCRgZxFgS9rffDJEoC8wqlTo7U0JWU",
+    authDomain: "meuclientesatisfeito-55e4c.firebaseapp.com",
+    databaseURL: "https://meuclientesatisfeito-55e4c.firebaseio.com",
+    projectId: "meuclientesatisfeito-55e4c",
+    storageBucket: "meuclientesatisfeito-55e4c.appspot.com",
+    messagingSenderId: "679633941380"
   };
   firebase.initializeApp(config);
-
 
 
 //reference message collection
