@@ -5,7 +5,7 @@
 				<span class="navbar-toggler-icon"></span>
 			</button>
 			<div class="collapse navbar-collapse" id="navbarSupportedContent">
-				<ul class="navbar-nav mr-auto">
+				<ul class="navbar-nav offset-6">
 					<li class="nav-item <?php echo $menuAtivo == 'books' ? 'active' : '' ?>">
 						<a class="nav-link" onClick="gtag('event', 'botaoMenu', {'event_category' : 'header', event_label' : 'clickBooks'})" href="#">E-books</a>
 					</li>
