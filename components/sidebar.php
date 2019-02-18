@@ -1,6 +1,8 @@
 <!doctype html>
 <html>
   <head>
+
+	
     <meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -14,7 +16,8 @@
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
 	<link href="../css/style.css" rel="stylesheet">
 	<?php  $menuAtivo = 'privacidade';
-	  include('components/analytics.html'); ?>
+		include('components/analytics.html'); ?>
+		
 	<script>gtag('event', 'page_view', {
 		  'send_to': 'UA-110534198-4',
 		});
@@ -34,12 +37,12 @@
 	<section id="Form1" class="my-5">
 		<h4>FORMULÁRIO FIXO (ARRUMAR UM NOME)</h4>
 		<p>Texto sobre como vai ser legal se vc cadastrar o e-mail para receber informações sobre NPS.</p>
-		<form>
+		<form id="contato">
 			<div class="form-group">
-				<input type="text" class="form-control" id="nomeSobrenome" placeholder="Seu nome e sobrenome">
+				<input type="text" class="form-control" id="nomeSobrenome" placeholder="Seu nome e sobrenome" required>
 			</div>
 			<div class="form-group">
-				<input type="email" class="form-control" id="Email1" aria-describedby="emailHelp" placeholder="E-mail">
+				<input type="email" class="form-control" id="Email1" aria-describedby="emailHelp" placeholder="E-mail" required>
 			</div>
 			<button type="submit" class="btn btn-primary">Cadastrar</button>
 		</form>
@@ -84,5 +87,8 @@
 				</li>
 		</ul>
 
+
 	</section>
-	
+	<script src="https://www.gstatic.com/firebasejs/5.8.3/firebase.js"></script>
+
+	<script src="main.js"></script>
