@@ -92,7 +92,7 @@
 
 
 	</section>
-	<script src="https://www.gstatic.com/firebasejs/5.8.3/firebase.js"></script>
-
+	
+	<script defer src="https://www.gstatic.com/firebasejs/5.8.3/firebase.js"></script>
 	<script src="main.js"></script>
 	</section>
