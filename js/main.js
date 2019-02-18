@@ -12,13 +12,13 @@
   firebase.initializeApp(config);
 
 
-//reference message collection
-let dados = firebase.databsase().ref('info');
+//reference leads collecntion
+let dados = firebase.database().ref('info');
 
 
 
 //Listen para o botão submit
-document.getEelementById('contato').addEventListener('submit', submitForm);
+document.getElementById('contato').addEventListener('submit', submitForm);
 
 
 
@@ -26,8 +26,11 @@ function submitForm(e){
     e.preventDefault();
     let email = getInputVal('Email1');
     let nome = getInputVal('nomeSobrenome');
+    let brtTime = new Date().toLocaleString("en-US", {timeZone: "America/Sao_Paulo"});
+    brtTime = new Date(brtTime);
+    brtTime = brtTime.toString();
     
-    salvarDados(email,nome);
+    salvarDados(email,nome, brtTime);
   }
   
   // Função para pegar os valores do formulario
@@ -37,11 +40,12 @@ function getInputVal(id){
 
 
 // Salvar os dados no firebase
-function salvarDados(email, nome){
+function salvarDados(email, nome, brtTime){
     let newDados = dados.push();
     newDados.set({
       email: email,
-      nome: nome
+      nome: nome,
+      brtTime: brtTime
     })
   }
 
