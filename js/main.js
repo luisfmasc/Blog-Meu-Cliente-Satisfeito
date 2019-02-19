@@ -1,5 +1,3 @@
-
-
  // Initialize Firebase
  var config = {
     apiKey: "AIzaSyAislCRgZxFgS9rffDJEoC8wqlTo7U0JWU",
@@ -14,7 +12,6 @@
 
 //reference leads collecntion
 let dados = firebase.database().ref('leads');
-
 
 var userIp;
 
