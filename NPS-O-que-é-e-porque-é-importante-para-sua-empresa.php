@@ -37,15 +37,14 @@
 
 <br>
 <p></h1>
-</br>
-</br>
+
 <p>NPS é a sigla para</span><b> Net Promoter Score,</b><span style="font-weight: 400;"> uma metodologia para medir o </span><b>grau de satisfação dos clientes</b> <span style="font-weight: 400;">com a empresa. Em tradução direta, significa "Nota Média de Indicação" e retrata em números o quão seu cliente está satisfeito com o atendimento, produto ou serviço prestado, além do grau de lealdade e recorrência.</p>
 
 </br>
 
 <h2><b>Porque o NPS é importante para minha empresa?</b></h2>
 <span style="font-weight: 400;">Com certeza você já ouviu o bordão "O cliente sempre tem razão", certo? Bom, isto não é uma máxima, mas uma coisa é certa: com ou sem razão, o cliente pode levar sua empresa ao topo ou ao declínio. Como? É aí que entra o NPS!</span>
-
+<br>
 </br>
 
 <span style="font-weight: 400;">A satisfação do cliente está diretamente ligada ao</span><a href="https://surfedigital.io/blog/ltv-como-calcular/"> <span style="font-weight: 400;">Lifetime Value</span></a><span style="font-weight: 400;"> (ou LTV: valor do tempo de vida do cliente na sua empresa). A equação é simples:</span>
@@ -104,14 +103,14 @@
 </table>
 <h2><b>Como medir o NPS? </b></h2>
 <span style="font-weight: 400;">Para medir o NPS, é preciso pensar em uma pergunta simples, objetiva e com resultados muito significativos: </span>
+<br><br>
 <h6><b>"Numa escala de 0 a 10, o quanto você indicaria nossa empresa para um amigo?"</b></h6>
-</br>
-
 <span style="font-weight: 400;">Esta é a pergunta do milhão! A partir daí você vai começar a conhecer sua carteira de clientes. </span>
 
 <span style="font-weight: 400;">Mas como tudo numa empresa, não é só perguntar de qualquer forma, é necessário planejamento! Para medir o NPS de forma eficaz, siga os passos:</span>
 
 </br>
+<br>
 <h4><b>Passo 1: Planejamento</b></h4>
 </br>
 
@@ -167,6 +166,7 @@
 
 <span style="font-weight: 400;">E aí já coloco mais uma reflexão: se até a Disney, que reune o maior acervo de mídia e entretenimento do pla-ne-ta(!), </span><b>se preocupa com NPS</b><span style="font-weight: 400;">, o que sua empresa está esperando???</span>
 
+<br>
 </br>
 <h4><b>Passo 2: Execução</b></h4>
 </br>
@@ -186,26 +186,28 @@
 <span style="font-weight: 400;">Caso não queira desenvolver uma plataforma própria para pesquisa, tem ótimas empresas no mercado especializadas nesta área:</span><a href="https://www.opinionbox.com/"> <span style="font-weight: 400;">Opinion Box</span></a><span style="font-weight: 400;">,</span><a href="https://opinia.me/"> <span style="font-weight: 400;">Opinia</span></a> <span style="font-weight: 400;">e a </span><a href="https://tracksale.co/"><span style="font-weight: 400;">Tracksale. </span></a>
 
 </br>
+<br>
 <h4><b>Passo 3: Apuração de dados</b></h4>
 </br>
 
 <span style="font-weight: 400;">Após coletar os dados, você precisa entendê-los. Seus clientes serão separados em três níveis: </span><b>Promotor, Neutro e Detrator. </b><span style="font-weight: 400;">Esta divisão se dará a partir da satisfação, da seguinte forma:</span>
 
 </br>
+<br>
 <h6><b>Clientes Promotores: notas 9 a 10</b></h6>
-</br>
 
 <span style="font-weight: 400;">Estes são os clientes felizes. A possibilidade de se tornarem clientes fiéis e indicarem a empresa é muito grande. Oferecem feedbacks positivos e aumentam o faturamento da empresa. O desafio aqui é manter estes clientes felizes, promovendo ações personalizadas, que o façam sentir especial.</span>
+<br><br>
 <h6><b>Clientes Neutros: notas 7 a 8</b></h6>
-</br>
 
 <span style="font-weight: 400;">Só buscam a empresa quando precisam, portanto, não são clientes leais. Podem fazer comprar de forma aleatória, mas com foco no produto/benefício, e não na empresa. Este tipo de cliente geralmente gosta do produto, mas tem ressalvas. Por exemplo: "O produto é bom, mas demorou a chegar" ou "o preço é o melhor, mas não gostei do atendimento". Neste caso precisa-se entender o ponto negativo listado pelo cliente e melhorá-lo, pois este pode ser um futuro "Promotor".</span>
+<br><br>
 <h6><b>Clientes Detratores: notas 0 a 6</b></h6>
-</br>
 
 <span style="font-weight: 400;">Estes são os insatisfeitos. São eles que irão falar mal da sua empresa, abrir reclamações, devolver o produto e têm chance de nunca mais voltar. Se este índice está alto, você tem um grande problema. É preciso identificar quais as principais reclamações dos clientes e atuar para que os erros não voltem a acontecer. Para isso todas as áreas devem trabalhar em conjunto e o foco deve ser a resolução do problema, e não "quem causou o problema". </span>
 
 </br>
+<br>
 <h4><b>Passo 4: Resultados</b></h4>
 </br>
 
@@ -222,25 +224,28 @@
 </br>
 
 <span style="font-weight: 400;">Para saber se isso é bom ou não, veja as métricas:</span>
+<br><br>
 <h6><b>Pontuação entre 75 e 100: Excelente</b></h6>
-</br>
 
 <span style="font-weight: 400;">Sua empresa consegue entregar para o cliente exatamente ou mais do que foi prometido, passando uma percepção muito positiva.</span>
+<br><br>
 <h6><b>Pontuação entre 50 e 74: Qualidade</b></h6>
-</br>
 
 <span style="font-weight: 400;">Sua empresa acerta em muitos aspectos na percepção do cliente, mas deixou pontos a desejar. Aqui é a zona do "mas". É boa nisso mas não é boa naquilo. </span>
+<br><br>
 <h6><b>Pontuação entre 0 e 49: Muito a melhorar</b></h6>
-</br>
 
 <span style="font-weight: 400;">Tem muitos pontos importantes de ajustes e a percepção que está sendo passada para o consumidor não é boa. É bom revisar todo o processo, valores e alinhamento do time, para corrigir os problemas o quanto antes.</span>
+<br><br>
 <h6><b>Pontuação negativa: Ruim</b></h6>
-</br>
 
 <span style="font-weight: 400;">Se o resultado do percentual de promotores menos o percentual de detratores deu negativo, aperte o sinal de alerta e reúna as peças-chave do time para reavaliar o MPV da entrega ao cliente. Aqui, nem o mínimo prometido está sendo entregue. Entenda as lacunas e corrija-as imediatamente. Repense também a estratégia: a empresa está no ramo certo, fazendo a coisa certa para o público coerente? </span>
+<br><br>
 <h3><b>Conclusão</b></h3>
-</br>
-
+<figure class="figure my-5">
+<img src="images\what_is.jpg" class="figure-img img-fluid rounded" alt="Mais satisfação = mais negócios">
+<figcaption class="figure-caption">Mais satisfação = mais negócios</figcaption>
+</figure>
 <span style="font-weight: 400;">Agora você já sabe que</span><b> medir a satisfação dos seus clientes te faz ganhar dinheiro</b><span style="font-weight: 400;">! Um cliente Promotor (feliz):</span>
 <ol>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">indica da sua empresa para outros prospects, o que poupa investimentos em mídia e captação de leads</span></li>
