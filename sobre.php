@@ -36,7 +36,7 @@
 			à permanecerem relevantes em um mercado globalizado.
 			</p>
 			<p>
-			Sem os criadores de conteúdo que pesquisam à fundo e se esforçam em sintetizar tudo que surge e tudo que deixa de ser relevante, os get_resources
+			Sem os criadores de conteúdo que pesquisam à fundo e se esforçam em sintetizar tudo que surge e tudo que deixa de ser relevante, os gestores
 			precisariam lidar com todo o ruído das mídias sociais.
 			</p>
 			<p>
