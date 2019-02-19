@@ -32,7 +32,7 @@
 				<small>18 de fevereiro de 2019, Luan Ciolette, NPS</small><br>
 				<figure class="figure my-5">
 					<img src="images\Devo_usar_NPS_na_minha_empresa_.jpg" class="figure-img img-fluid rounded" alt="Devo usar NPS na minha empresa?"> <!---->
-					<figcaption class="figure-caption">Devo usar NPS na minha empresa?</figcaption> <!---->
+					<figcaption class="figure-caption">Devo usar NPS na minha empresa?</figcaption>
 				</figure>
 
 <br>Você já deve ter ouvido falar sobre, já deve ter recebido uma recomendação e até já deve ter recebido uma pesquisa de NPS. Mas, afinal, vale a pena praticar o NPS nas empresa brasileiras?
@@ -60,21 +60,22 @@ A Bain Company produziu um estudo focado em NPS de instituições financeiras no
 <h3>4. As vantagens do NPS.</h3>
 
 Vamos avaliar os aspectos positivos do sistema NPS e ver como sua empresa se beneficia se os resultados forem aplicados às suas práticas de negócios.
-
-<h4>Intuitivo e fácil de usar</h4>
+<ul>
+<li>Intuitivo e fácil de usar</li>
 A pergunta do modelo de questionário se baseia em uma ideia: descobrir se os seus clientes gostam o bastante da sua empresa a ponto de recomendá-la. Esta pergunta costuma ser acompanhada por uma pergunta para descobrir porque as pessoas recomendam, ou não. Você pode facilmente enviar o questionário para os clientes por e-mail, whatsapp ou até publicá-lo no seu site. O cálculo é intuitivo e exige apenas uma planilha básica para funcionar.
 
 
-<h4>Excepcional para gestão</h4>
+<li>Excepcional para gestão</li>
 Quando os executivos da sua empresa precisam de uma medida prática, rápida e abrangente da fidelidade dos seus clientes, o NPS é uma ótima solução. Além de ajudar a empresa a comparar seu desempenho ao da concorrência e pode ser usado pelos gestores para comparar seus diversos produtos ou serviços.
 
 
-<h4>Padroniza a classificação da clientela</h4>
+<li>Padroniza a classificação da clientela</li>
 A metodologia NPS se subdivide em três categorias de clientes: Promotores, Detratores e Passivos. Estas categorias facilitam a classificação da fidelidade dos clientes e padroniza a comunicação e os esforços da sua empresa na hora de tratar sobre a clientela.
 
 
-<h4>Maior facilidade para se referenciar</h4>
+<li>Maior facilidade para se referenciar</li>
 Um recurso essencial pois a medida é usada como padrão por empresas no mundo todo, facilitando a comparação do seu Net Promoter Score com os seus principais concorrentes. Sua pontuação se torna mais significativa em contexto com outras pontuações do seu setor.
+</ul>
 
 <h3>5. Não deixe o NPS para manhã sua empresa precisar dele!</h3>
 Seja qual for o segmento, nada que superasse o NPS foi inventado até os tempos atuais. Uma métrica que traz insights gerais sobre a experiência do cliente, trazendo uma métrica da lealdade que reflete no crescimento do faturamento das empresas.
