@@ -32,7 +32,7 @@
 	<h4>Mais Lidas</h4>
 	<ul class="maisLidas list-unstyled">
 		<li class="media">
-			<img src="../images/thumbs/o-basico-de-nps-100x100.jpg" class=" mr-3" width="100" height="100" a href="../nps-o-que-e.php">
+			<img src="../images/thumbs/nps-o-que-e-100x100.jpg" class=" mr-3" width="100" height="100" a href="../nps-o-que-e.php">
 			<div class="media-body">
 				<h5><a href="../nps-o-que-e.php">NPS: O que é e porque é importante para sua empresa</a></h5>
 			</div>
