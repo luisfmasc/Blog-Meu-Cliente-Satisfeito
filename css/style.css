@@ -68,3 +68,6 @@ footer .btn {
 .nav-link{
 	color: #1C3997 !important;
 }
+#post {
+	text-align: justify;
+}
