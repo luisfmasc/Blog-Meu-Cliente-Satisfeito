@@ -6,11 +6,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta property="og:url" content="https://meuclientesatisfeito.com/o-basico-de-nps"/>
 	<meta property="og:type" content="post"/>
-	<meta property="og:title" content="O Básico de NPS | Meu cliente satisfeito"/> <!---->
+	<meta property="og:title" content="O Básico de NPS | Meu cliente satisfeito"/>
 	<meta property="og:description" content="Descubra o que é NPS e como fazer sua empresa decolar"/>
-	<meta property="og:image" content="https://meuclientesatisfeito.com/images/post/o-basico-de-nps-800x600.jpg"/> <!--tumb-->
+	<meta property="og:image" content="https://meuclientesatisfeito.com/images/post/o-basico-de-nps-800x600.jpg"/>
 	<meta property="description" content="Descubra o que é NPS e como fazer sua empresa decolar"/>
-	<title>O Básico de NPS | Meu cliente satisfeito</title> <!---->
+	<title>O Básico de NPS | Meu cliente satisfeito</title>
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
 	<link href="../css/style.css" rel="stylesheet">
 	<?php  $menuAtivo = 'post';
