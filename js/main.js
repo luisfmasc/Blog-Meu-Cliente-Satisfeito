@@ -81,6 +81,7 @@ getIp(function (ip) {
 });
 
 function submitForm(e){
+	window.test = e;
     e.preventDefault();
     let email = getInputVal('Email1');
     let nome = getInputVal('nomeSobrenome');
