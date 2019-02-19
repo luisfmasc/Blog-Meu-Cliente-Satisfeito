@@ -22,7 +22,7 @@
 </head>
 <body>
 	<header>
-		<?php include('menu.php'); ?>
+		<?php include('components/menu.php'); ?>
 	</header>
 
 	<main id="post" class="container">
@@ -52,10 +52,10 @@ Notas <b>de 9 e 10 – Clientes Promotores</b> - São aqueles que tiveram uma ex
 				</ul>
 			</main>
 			<aside class="col-md-3 offset-md-1">
-				<?php include('sidebar.php'); ?>
+				<?php include('components/sidebar.php'); ?>
 			</aside>
 		</section>
 	</main>
-	<?php include('footer.php'); ?>
+	<?php include('components/footer.php'); ?>
 </body>
 </html>
