@@ -1,6 +1,6 @@
 <section id="Form1" class="my-5">
-	<h4>FORMULÁRIO FIXO (ARRUMAR UM NOME)</h4>
-	<p>Texto sobre como vai ser legal se vc cadastrar o e-mail para receber informações sobre NPS.</p>
+	<h4>Conteúdo exclusívo</h4>
+	<p>Inscreva-se em nossa newsletter para receber conteúdo gratuito sobre NPS e Gestão de Experiência.</p>
 	<form id="contato">
 		<div class="form-group">
 			<input type="text" class="form-control" id="nomeSobrenome" placeholder="Seu nome e sobrenome" required>
