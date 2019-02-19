@@ -1,6 +1,6 @@
 <section id="Form1" class="my-5">
-	<h4>FORMULÁRIO FIXO (ARRUMAR UM NOME)</h4>
-	<p>Texto sobre como vai ser legal se vc cadastrar o e-mail para receber informações sobre NPS.</p>
+	<h4>Conteúdo exclusívo</h4>
+	<p>Inscreva-se em nossa newsletter para receber conteúdo gratuito sobre NPS e Gestão de Experiência.</p>
 	<form id="contato">
 		<div class="form-group">
 			<input type="text" class="form-control" id="nomeSobrenome" placeholder="Seu nome e sobrenome" required>
@@ -8,95 +8,46 @@
 		<div class="form-group">
 			<input type="email" class="form-control" id="Email1" aria-describedby="emailHelp" placeholder="E-mail" required>
 		</div>
-		<button type="submit" class="btn btn-primary">Cadastrar</button>
+		<button type="submit" class="btn btn-primary" onClick="gtag('event', 'Formulário', {'event_category' : 'aside', event_label' : 'Cadastrou'})">Cadastrar</button>
 	</form>
 </section>
 <section id="tagsSidebar" class="my-5">
 	<h4>Tags</h4>
-	<ul class="tags_footer list-inline">
-		<li class="list-inline-item"><a href="#">Tag1</a>
-		</li>
-		<li class="list-inline-item"><a href="#">Tag2</a>
-		</li>
-		<li class="list-inline-item"><a href="#">Tag3</a>
-		</li>
-		<li class="list-inline-item"><a href="#">Tag4</a>
-		</li>
-		<li class="list-inline-item"><a href="#">Tag5</a>
-		</li>
-		<li class="list-inline-item"><a href="#">Tag6</a>
-		</li>
-		<li class="list-inline-item"><a href="#">Tag7</a>
-		</li>
-		<li class="list-inline-item"><a href="#">Tag8</a>
-		</li>
-		<li class="list-inline-item"><a href="#">Tag9</a>
-		</li>
+	<ul class="numesTags list-inline">
+		<li class="list-inline-item"><a href="#" onClick="gtag('event', 'numesTags', {'event_category' : 'aside', event_label' : 'Como funciona NPS'})">Como funciona NPS</a></li>
+		<li class="list-inline-item"><a href="#" onClick="gtag('event', 'numesTags', {'event_category' : 'aside', event_label' : 'Como medir satisfação dos clientes'})">Como medir satisfação dos clientes</a></li>
+		<li class="list-inline-item"><a href="#" onClick="gtag('event', 'numesTags', {'event_category' : 'aside', event_label' : 'Experiência do cliente'})">Experiência do cliente</a></li>
+		<li class="list-inline-item"><a href="#" onClick="gtag('event', 'numesTags', {'event_category' : 'aside', event_label' : 'Importância do NPS'})">Importância do NPS</a></li>
+		<li class="list-inline-item"><a href="#" onClick="gtag('event', 'numesTags', {'event_category' : 'aside', event_label' : 'NPS'})">NPS</a></li>
+		<li class="list-inline-item"><a href="#" onClick="gtag('event', 'numesTags', {'event_category' : 'aside', event_label' : 'NPS no Brasil'})">NPS no Brasil</a></li>
+		<li class="list-inline-item"><a href="#" onClick="gtag('event', 'numesTags', {'event_category' : 'aside', event_label' : 'O que é NPS'})">O que é NPS</a></li>
+		<li class="list-inline-item"><a href="#" onClick="gtag('event', 'numesTags', {'event_category' : 'aside', event_label' : 'Pesquisa de opinião'})">Pesquisa de opinião</a></li>
+		<li class="list-inline-item"><a href="#" onClick="gtag('event', 'numesTags', {'event_category' : 'aside', event_label' : 'Promotores da marca'})">Promotores da marca</a></li>
+		<li class="list-inline-item"><a href="#" onClick="gtag('event', 'numesTags', {'event_category' : 'aside', event_label' : 'Satisfação de clientes'})">>Satisfação de clientes</a></li>
+		<li class="list-inline-item"><a href="#" onClick="gtag('event', 'numesTags', {'event_category' : 'aside', event_label' : 'Sucesso da marca'})">Sucesso da marca</a></li>
+		<li class="list-inline-item"><a href="#" onClick="gtag('event', 'numesTags', {'event_category' : 'aside', event_label' : 'Sucesso do cliente'})">Sucesso do cliente</a></li>
 	</ul>
 </section>
 <section id="maisLidas" class="my-5">
 	<h4>Mais Lidas</h4>
 	<ul class="maisLidas list-unstyled">
 		<li class="media">
-			<svg class="bd-placeholder-img mr-3" width="100" height="100" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder:100x100">
-				<rect fill="#868e96" width="100%" height="100%"></rect><text fill="#dee2e6" dy="0.15em" x="20%" y="50%">100x100</text>
-			</svg>
+			<img src="../images/thumbs/nps-o-que-e-100x100.jpg" class=" mr-3" width="100" height="100" a href="../nps-o-que-e.php" onClick="gtag('event', 'maisLidas', {'event_category' : 'aside', event_label' : 'artigoImagem1'})">
 			<div class="media-body">
-				<h5><a href="muita-treta.php">Muita treta</a></h5>
+				<h5><a href="../nps-o-que-e.php" onClick="gtag('event', 'maisLidas', {'event_category' : 'aside', event_label' : 'artigoTitulo1'})">NPS: O que é e porque é importante para sua empresa</a></h5>
 			</div>
 		</li>
 		<li class="media my-3">
-			<svg class="bd-placeholder-img mr-3" width="100" height="100" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder:120x100">
-				<rect fill="#868e96" width="100%" height="100%"></rect><text fill="#dee2e6" dy="0.15em" x="20%" y="50%">100x100</text>
-			</svg>
+			<img src="../images/thumbs/o-basico-de-nps-100x100.jpg" class=" mr-3" width="100" height="100" a href="../o-basico-de-nps.php" onClick="gtag('event', 'maisLidas', {'event_category' : 'aside', event_label' : 'artigoImagem2'})">
 			<div class="media-body">
-				<h5><a href="#">Título do Post</a></h5>
+				<h5><a href="../o-basico-de-nps.php" onClick="gtag('event', 'maisLidas', {'event_category' : 'aside', event_label' : 'artigoTitulo2'})">O Básico de NPS Que Você Precisa Saber</a></h5>
 			</div>
-			<button type="submit" class="btn btn-primary">Cadastrar</button>
-		</form>
-	</section>
-	<section id="tagsSidebar" class="my-5">
-		<h4>Tags</h4>
-		<ul class="tags_footer list-inline">
-			<li class="list-inline-item"><a href="#">Tag1</a></li>
-			<li class="list-inline-item"><a href="#">Tag2</a></li>
-			<li class="list-inline-item"><a href="#">Tag3</a></li>
-			<li class="list-inline-item"><a href="#">Tag4</a></li>
-			<li class="list-inline-item"><a href="#">Tag5</a></li>
-			<li class="list-inline-item"><a href="#">Tag6</a></li>
-			<li class="list-inline-item"><a href="#">Tag7</a></li>
-			<li class="list-inline-item"><a href="#">Tag8</a></li>
-			<li class="list-inline-item"><a href="#">Tag9</a></li>
-		</ul>
-	</section>
-	<section id="maisLidas" class="my-5">
-		<h4>Mais Lidas</h4>
-		<ul class="maisLidas list-unstyled">
-			<li class="media">
-				<svg class="bd-placeholder-img mr-3" width="100" height="100" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder:100x100">
-					<rect fill="#868e96" width="100%" height="100%"></rect><text fill="#dee2e6" dy="0.15em" x="20%" y="50%">100x100</text>
-				</svg>
-				<div class="media-body">
-					<h5><a href="#">Título do Post</a></h5>
-				</div>
-			</li>
-			<li class="media my-3">
-				<svg class="bd-placeholder-img mr-3" width="100" height="100" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder:120x100">
-					<rect fill="#868e96" width="100%" height="100%"></rect><text fill="#dee2e6" dy="0.15em" x="20%" y="50%">100x100</text>
-				</svg>
-				<div class="media-body">
-					<h5><a href="#">Título do Post</a></h5>
-				</div>
-			</li>
-			<li class="media my-3">
-				<svg class="bd-placeholder-img mr-3" width="100" height="100" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder:100x100">
-					<rect fill="#868e96" width="100%" height="100%"></rect><text fill="#dee2e6" dy="0.15em" x="20%" y="50%">100x100</text>
-				</svg>
-				<div class="media-body">
-					<h5><a href="#">Título do Post</a></h5>
-				</div>
-			</li>
-		</ul>
-
-
-	</section>
+		</li>
+		<li class="media my-3">
+			<img src="../images/thumbs/nps-nas-empresas-brasileiras-100x100.jpg" class=" mr-3" width="100" height="100" a href="../nps-nas-empresas-brasileiras.php" onClick="gtag('event', 'maisLidas', {'event_category' : 'aside', event_label' : 'artigoImagem3'})">
+			<div class="media-body">
+				<h5><a href="../nps-nas-empresas-brasileiras.php" onClick="gtag('event', 'maisLidas', {'event_category' : 'aside', event_label' : 'artigoTitulo3'})">5 Motivos para praticar o NPS nas empresas brasileiras</a></h5>
+			</div>
+		</li>
+	</ul>
+</section>

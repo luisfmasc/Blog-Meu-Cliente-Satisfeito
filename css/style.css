@@ -40,9 +40,6 @@ h4, h5, h6 {
 #juridico a {
 	color: #FFF;
 }
-#maisLidas {
-	padding: 18px;
-}
 footer .btn {
 	color: #FFF;
 }
@@ -54,6 +51,7 @@ footer .btn {
 }
 #maisLidas h5 {
 	text-transform: none;
+	font-size: 16px;
 }
 
 #Form1 .form-control {
@@ -67,4 +65,7 @@ footer .btn {
 }
 .nav-link{
 	color: #1C3997 !important;
+}
+#post {
+	text-align: justify;
 }
