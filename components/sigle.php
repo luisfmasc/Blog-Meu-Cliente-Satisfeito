@@ -25,7 +25,7 @@
 		<?php include('menu.php'); ?>
 	</header>
 
-	<main id="politica" class="container">
+	<main id="post" class="container">
 		<section class="row">
 			<main class="col-md-8">
 				<h1 class="mt-5">Titulo do post</h1> <!---->
