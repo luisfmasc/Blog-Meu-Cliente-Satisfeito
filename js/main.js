@@ -81,7 +81,6 @@ getIp(function (ip) {
 });
 
 function submitForm(e){
-	window.test = e;
     e.preventDefault();
     let email = getInputVal('Email1');
     let nome = getInputVal('nomeSobrenome');
@@ -91,6 +90,7 @@ function submitForm(e){
     ("0" + brtTime.getHours()).slice(-2) + ":" + ("0" + brtTime.getMinutes()).slice(-2) + ":" + ("0" + brtTime.getSeconds()).slice(-2);
  
     var tipo = b2cORb2b(email);
+	document.getElementById('enviarForm').disabled = true;
     salvarDados(email,nome,userIp,tipo,stringTime);
   }
   
