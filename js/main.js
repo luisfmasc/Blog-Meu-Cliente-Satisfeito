@@ -52,7 +52,7 @@ function getIp(callback)
     }
 }
 
-function tipoCliente (email){
+function b2cORb2b (email){
   var arremail = email.split("@");
   switch(arremail[1]){
       case "gmail.com":
@@ -89,7 +89,7 @@ function submitForm(e){
     stringTime = brtTime.getFullYear().toString() + "-" + ("0"+(brtTime.getMonth()+1)).slice(-2) + "-" + ("0" + brtTime.getDate()).slice(-2) + " " + 
     ("0" + brtTime.getHours()).slice(-2) + ":" + ("0" + brtTime.getMinutes()).slice(-2) + ":" + ("0" + brtTime.getSeconds()).slice(-2);
  
-    var tipo = tipoCliente(email);
+    var tipo = b2cORb2b(email);
     salvarDados(email,nome,userIp,tipo,stringTime);
   }
   
@@ -99,32 +99,15 @@ function getInputVal(id){
   }
   
 
- /*
-    firebase.database().ref('leads').child(email.replace("@","at").replace(".","dot")).set({email: email, nome: nome, ip: userIp, tipo: tipo, data: stringTime}, function(error){
-        //firebase.database().ref('leads/').child(lemail).set('teste', function(error){
-            if(error) alert("ERRO");
-            else alert("Email cadastrado!");
-        });
-        */
-
-//Salvar os dados no firebase
+// Salvar os dados no firebase
 function salvarDados(email, nome, userIp,tipo,stringTime){
-    let emailreplace = email.replace("@","at").replace(".","dot").replace(".","dot").replace(".","dot").replace(".","dot").replace(".","dot").replace(".","dot");
-   //let newDados = dados.push();
-    dados.child(emailreplace).set({email: email,
-        nome: nome,
-        ip: userIp,
-        tipo: tipo,
-        data: stringTime});
-    /*newDados.set({
+    let newDados = dados.push();
+    newDados.set({
       email: email,
       nome: nome,
       userIp: userIp,
       tipo: tipo,
       stringTime: stringTime
       
-    })*/
+    })
   }
-
-
-
