@@ -31,10 +31,10 @@
 			<main class="col-md-8">
 				<h1 class="mt-5">O Básico de NPS Que Você Precisa Saber</h1>
 				<small>18 de fevereiro de 2019, Thamires Rocha, NPS</small>
-<!--				<figure class="figure my-5">
-					<img src="../images/bridge-2060820_1280.jpg" class="figure-img img-fluid rounded" alt="A caption for the above image.">
+				<figure class="figure my-5">
+					<img src="images/post/o-basico-de-nps-800x600.jpg" class="figure-img img-fluid rounded" alt="A caption for the above image.">
 					<figcaption class="figure-caption">A caption for the above image.</figcaption>
-				</figure>-->
+				</figure>
 				<p>Ainda não conhece a metodologia do NPS? Então saiba qual é o método utilizado por corporações que são referência no mundo inteiro.</p>
 				<p>A metodologia do Net Promoter Scores (NPS) foi criada por Fred Reichheld, nos EUA, com intuito de medir o índice de lealdade dos clientes por meio de uma única pergunta: “Qual a probabilidade de você recomendar [ empresa X] a um amigo ou colega?”.</p>
 				<p>Em uma escala de 0 a 10 é possível mensurar o  grau de satisfação dos seus clientes, com base em três tipos de perfis:</p>
