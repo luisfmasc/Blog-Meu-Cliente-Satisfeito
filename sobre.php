@@ -37,7 +37,16 @@
 	<section class="container">
 		<section class="row">
 			<main class="col-md-8">
-				
+			<h1>Sobre</h1>
+			<p>A Meuclientesatisfeito.com é uma mídia dedicada a estar à frente de todas as novidades gestoriais do mercado brasileiro.
+			Não se trata de publicar informação, mas trazer o conteúdo mais relevante, desde à macro visão até os pormenores do cenário corporativo.
+			</p>
+			<p>Na Era Digital onde o Mindset Lean é cada vez mais difundido as empresas e negócios que não se modernizam são engolidas
+			pelos competidores numa velocidade alucinante.
+			</p>
+			<p>No cenário brasileiro a mídia digital possui um papel importante de informar o público gestor, auxiliando corporações brasileiras
+			à permanecerem relevantes em um mercado globalizado.
+			</p>
 				
 			</main>
 			<aside class="col-md-3 offset-md-1">
