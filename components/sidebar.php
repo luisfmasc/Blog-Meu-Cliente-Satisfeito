@@ -42,7 +42,7 @@
 				<rect fill="#868e96" width="100%" height="100%"></rect><text fill="#dee2e6" dy="0.15em" x="20%" y="50%">100x100</text>
 			</svg>
 			<div class="media-body">
-				<h5><a href="#">Título do Post</a></h5>
+				<h5><a href="muita-treta.php">Muita treta</a></h5>
 			</div>
 		</li>
 		<li class="media my-3">

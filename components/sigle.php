@@ -11,9 +11,9 @@
 	<meta property="og:image" content="https://meuclientesatisfeito.com/images/institucional.png"/> <!--tumb-->
 	<title>Titulo do post | Meu cliente satisfeito</title> <!---->
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
-	<link href="css/style.css" rel="stylesheet">
+	<link href="../css/style.css" rel="stylesheet">
 	<?php  $menuAtivo = 'post';
-	  include('components/analytics.html'); ?>
+	  include('analytics.html'); ?>
 	<script>
 		gtag( 'event', 'page_view', {
 			'send_to': 'UA-134713675-1',
@@ -22,7 +22,7 @@
 </head>
 <body>
 	<header>
-		<?php include('components/menu.php'); ?>
+		<?php include('menu.php'); ?>
 	</header>
 
 	<main id="politica" class="container">
@@ -31,7 +31,7 @@
 				<h1 class="mt-5">Titulo do post</h1> <!---->
 				<small>18 de fevereiro de 2019, Autor, Categoria</small> <!---->
 				<figure class="figure my-5">
-					<img src="images/bridge-2060820_1280.jpg" class="figure-img img-fluid rounded" alt="A caption for the above image."> <!---->
+					<img src="../images/bridge-2060820_1280.jpg" class="figure-img img-fluid rounded" alt="A caption for the above image."> <!---->
 					<figcaption class="figure-caption">A caption for the above image.</figcaption> <!---->
 				</figure>
 				<p>Lorem ipsum dolor sit amet, consect</p> <!---->
@@ -40,10 +40,10 @@
 				</ul>
 			</main>
 			<aside class="col-md-3 offset-md-1">
-				<?php include('components/sidebar.php'); ?>
+				<?php include('sidebar.php'); ?>
 			</aside>
 		</section>
 	</main>
-	<?php include('components/footer.php'); ?>
+	<?php include('footer.php'); ?>
 </body>
 </html>
