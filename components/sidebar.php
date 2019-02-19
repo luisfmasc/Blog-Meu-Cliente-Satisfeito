@@ -8,7 +8,7 @@
 		<div class="form-group">
 			<input type="email" class="form-control" id="Email1" aria-describedby="emailHelp" placeholder="E-mail" required>
 		</div>
-		<button type="submit" class="btn btn-primary" onClick="gtag('event', 'Formulário', {'event_category' : 'aside', event_label' : 'Cadastrou'})">Cadastrar</button>
+		<button id="enviarForm" type="submit" class="btn btn-primary" onClick="gtag('event', 'Formulário', {'event_category' : 'aside', event_label' : 'Cadastrou'})">Cadastrar</button>
 	</form>
 </section>
 <section id="tagsSidebar" class="my-5">
