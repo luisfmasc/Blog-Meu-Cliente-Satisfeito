@@ -9,7 +9,7 @@
 	<meta property="og:title" content="Meu cliente satisfeito"/> <!---->
 	<meta property="og:description" content=""/> <!---->
 	<meta property="og:image" content="https://meuclientesatisfeito.com/images/institucional.png"/> <!--tumb-->
-	<title>A pergunta definitiva | Meu cliente satisfeito</title> <!---->
+	<title>NPS: O quê e porquê| Meu cliente satisfeito</title> <!---->
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
 	<link href="css/style.css" rel="stylesheet">
 	<?php  $menuAtivo = 'post';
@@ -36,8 +36,7 @@
 				</figure>
 
 <br>
-<h3>Em uma escala de 0 a 10, qual a chance dos seus clientes indicarem sua empresa a um amigo ou colega?</h3>
-<p><h1><b>NPS: O que é e porque é importante para sua empresa</b></h1>
+<p></h1>
 </br>
 </br>
 <p>NPS é a sigla para</span><b> Net Promoter Score,</b><span style="font-weight: 400;"> uma metodologia para medir o </span><b>grau de satisfação dos clientes</b> <span style="font-weight: 400;">com a empresa. Em tradução direta, significa "Nota Média de Indicação" e retrata em números o quão seu cliente está satisfeito com o atendimento, produto ou serviço prestado, além do grau de lealdade e recorrência.</p>

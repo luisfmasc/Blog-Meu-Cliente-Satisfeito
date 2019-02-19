@@ -36,7 +36,7 @@
 				</figure>
 
 <br>
-<h3>Em uma escala de 0 a 10, qual a chance dos seus clientes indicarem sua empresa a um amigo ou colega?</h3>
+<p> <font size="5"><i>Em uma escala de 0 a 10, qual a chance dos seus clientes indicarem sua empresa a um amigo ou colega?</i></font></p>
 <p>Se você não sabe a resposta desta pergunta, seu negócio está em risco!
 
 Os clientes detratores — insatisfeitos com seu produto/serviço estão à solta falando mal da sua empresa. Para que seu negócio continue a crescer de forma saudável é preciso acabar com a ameaça que eles representam à sua marca.
