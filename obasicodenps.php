@@ -9,7 +9,7 @@
 	<meta property="og:title" content="Meu cliente satisfeito"/> <!---->
 	<meta property="og:description" content=""/> <!---->
 	<meta property="og:image" content="https://meuclientesatisfeito.com/images/institucional.png"/> <!--tumb-->
-	<title>O Básico de NPS| Meu cliente satisfeito</title> <!---->
+	<title>O Tásico de NPS| Meu cliente satisfeito</title> <!---->
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
 	<link href="../css/style.css" rel="stylesheet">
 	<?php  $menuAtivo = 'post';
