@@ -31,29 +31,33 @@
 				<h1 class="mt-5">5 Motivos Para Praticar o NPS Nas Empresas Brasileiras| Meu cliente satisfeito</h1> <!---->
 				<small>18 de fevereiro de 2019, Luan Ciolette, NPS</small><br>
 				<figure class="figure my-5">
-					<img src="images/Devo_usar_NPS_na_minha_empresa_,jpg" class="figure-img img-fluid rounded" alt="Devo usar NPS na minha empresa?"> <!---->
+					<img src="images\Devo_usar_NPS_na_minha_empresa_.jpg" class="figure-img img-fluid rounded" alt="Devo usar NPS na minha empresa?"> <!---->
 					<figcaption class="figure-caption">Devo usar NPS na minha empresa?</figcaption> <!---->
 				</figure>
+
 <br>Você já deve ter ouvido falar sobre, já deve ter recebido uma recomendação e até já deve ter recebido uma pesquisa de NPS. Mas, afinal, vale a pena praticar o NPS nas empresa brasileiras?
 Neste artigo, busco te convencer que sim, vale a pena e vou te explicar com dados por que as marcas que utilizam o Net Promoter Score saem na frente da concorrência em todos os sentidos.
-<h3>As grandes marcas estão usando o NPS!</h3>
-O Net Promoter Score é uma ferramenta excelente para avaliar a lealdade e a satisfação dos clientes, principalmente pela facilidade de compreensão e por ofertar resultados com alto nível de confiabilidade, claro, se aplicada corretamente.
+<h3>1. As grandes marcas estão usando o NPS!</h3>
+<p>O Net Promoter Score é uma ferramenta excelente para avaliar a lealdade e a satisfação dos clientes, principalmente pela facilidade de compreensão e por ofertar resultados com alto nível de confiabilidade, claro, se aplicada corretamente.
 
 A oportunidade de aprimorar a experiência do cliente em algo positivo e marcante, tem feito do NPS um dos principais motivos para gestores utilizarem a ferramenta como métrica de performance do Customer Experience, além da métrica estar diretamente relacionada aos lucros e resultados das companhias.
 
-Abaixo listamos algumas das principais empresas no mundo que usam o Net Promoter Score para mensurar o grau de lealdade e satisfação de seus clientes e assim aperfeiçoar seus produtos e serviços aumentando seus lucros:
-<br> INSERIR IMAGEM COM TODAS AS LOGOS
+Abaixo listamos algumas das principais empresas no mundo que usam o Net Promoter Score para mensurar o grau de lealdade e satisfação de seus clientes e assim aperfeiçoar seus produtos e serviços aumentando seus lucros:</p>
 <br>
-<h3>O NPS é importante para o sucesso da sua empresa!</h3>
+<figure class="figure my-5">
+<img src="\images\image1.jpg" class="figure-img img-fluid rounded" alt="Logos de empresas usando NPS">
+</figure>
+<br><br>
+<h3>2. O NPS é importante para o sucesso da sua empresa!</h3>
 Diversas empresas utilizam esta metodologia para medir a satisfação de seus clientes e verificar em quais área é necessário um plano de ação. O que Allianz Group, Canon, Ebay, Facebook, HP, Microsoft e General Motors tem em comum? Todas utilizam esta metodologia em suas empresas!
 
 O NPS, hoje é a principal métrica focada na fidelidade e experiência do cliente no mundo, ou seja, impacta diretamente no resultado de uma marca e na percepção do cliente ao adquire produtos e serviços dessa marca. Influenciando ainda na recomendação de fato, ou seja, fazem com que os consumidores recomendem a marca a amigos e familiares.
 
 A aplicação NPS está tão difundida, que atualmente 95% das 500 maiores empresas no mundo utilizam essa métrica de lealdade do cliente como termômetro de relacionamento com os mesmos.
-<h3>Sua empresa deve utilizar o NPS!</h3>
+<h3>3. Sua empresa deve utilizar o NPS!</h3>
 
 A Bain Company produziu um estudo focado em NPS de instituições financeiras no Brasil e mostrou que apesar do crescimento orgânico em suas receitas, os bancos de média renda possuem um baixo NPS, ou seja, maior volume de clientes detratores. Os bancos de alta renda foram as instituições que apresentaram maior NPS em relação aos de média renda. Nestes casos, quanto maior o número de clientes promotores, maior a aceitação de produtos e maior a permanência dos clientes com a empresa. Uma vigilância contínua desta métrica possibilita uma revisão constante dos pontos que atraem ou que repelem os clientes, gerando assim oportunidades de melhorar estes serviços para conquistar um número maior de promotores, concomitantemente aumento na retenção e receitas das empresas.
-<h3>As vantagens do NPS.</h3>
+<h3>4. As vantagens do NPS.</h3>
 
 Vamos avaliar os aspectos positivos do sistema NPS e ver como sua empresa se beneficia se os resultados forem aplicados às suas práticas de negócios.
 
