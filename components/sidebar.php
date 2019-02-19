@@ -32,19 +32,19 @@
 	<h4>Mais Lidas</h4>
 	<ul class="maisLidas list-unstyled">
 		<li class="media">
-			<img src="../images/thumbs/nps-o-que-e-thumb.jpg" class=" mr-3" width="100" height="100" a href="../nps-o-que-e.php">
+			<img src="../images/thumbs/o-basico-de-nps-100x100.jpg" class=" mr-3" width="100" height="100" a href="../nps-o-que-e.php">
 			<div class="media-body">
 				<h5><a href="../nps-o-que-e.php">NPS: O que é e porque é importante para sua empresa</a></h5>
 			</div>
 		</li>
 		<li class="media my-3">
-			<img src="../images/thumbs/o-basico-de-nps-thumb.jpg" class=" mr-3" width="100" height="100" a href="../o-basico-de-nps.php">
+			<img src="../images/thumbs/o-basico-de-nps-100x100.jpg" class=" mr-3" width="100" height="100" a href="../o-basico-de-nps.php">
 			<div class="media-body">
 				<h5><a href="../o-basico-de-nps">O Básico de NPS Que Você Precisa Saber</a></h5>
 			</div>
 		</li>
 		<li class="media my-3">
-			<img src="../images/thumbs/nps-nas-empresas-brasileiras-thumb.jpg" class=" mr-3" width="100" height="100" a href="../nps-nas-empresas-brasileiras.php">
+			<img src="../images/thumbs/nps-nas-empresas-brasileiras-100x100.jpg" class=" mr-3" width="100" height="100" a href="../nps-nas-empresas-brasileiras.php">
 			<div class="media-body">
 				<h5><a href="../nps-nas-empresas-brasileiras.php">5 Motivos para praticar o NPS nas empresas brasileiras</a></h5>
 			</div>
