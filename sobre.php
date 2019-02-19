@@ -44,8 +44,15 @@
 			<p>Na Era Digital onde o Mindset Lean é cada vez mais difundido as empresas e negócios que não se modernizam são engolidas
 			pelos competidores numa velocidade alucinante.
 			</p>
-			<p>No cenário brasileiro a mídia digital possui um papel importante de informar o público gestor, auxiliando corporações brasileiras
+			<p>No cenário brasileiro a mídia digital possui o importante papel de informar o público gestor, auxiliando corporações brasileiras
 			à permanecerem relevantes em um mercado globalizado.
+			</p>
+			<p>
+			Sem os criadores de conteúdo que pesquisam à fundo e se esforçam em sintetizar tudo que surge e tudo que deixa de ser relevante, os get_resources
+			precisariam lidar com todo o ruído das mídias sociais.
+			</p>
+			<p>
+			Num cotidiano cada vez mais barulhento, nossa missão possui dois frontes:	filtrar a informação crítica e ser concierge de conteúdo para todos administradores brasileiros.
 			</p>
 				
 			</main>
