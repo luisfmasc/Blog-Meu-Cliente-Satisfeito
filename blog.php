@@ -30,6 +30,9 @@
 		<section class="row">
 			<main class="col-md-8">
                 <div class="row">
+                    
+                    
+                    
                     <div class="row postHome">                        
                         <figure class="col-3">
                             <img src="images/post/nps-o-que-e-800x600.jpg" width="100%" class="img-thumbnail" />
@@ -37,6 +40,8 @@
                         <div class="col-9">
                             <h3>NPS: O que é e porque é importante para sua empresa</h3>
                             <p>Você sabe o quanto seu cliente está satisfeito com a empresa? Descubra o que é Net Promoter Score (NPS) e saiba porque é importante para o crescimento da empresa.</p>
+          <a href="https://meuclientesatisfeito.com/blog/descubra-o-nps/nps-o-que-e.php" target="_blank">Leia Mais</a>
+
                         </div>
                     </div>
                     <div class="row postHome">                        
@@ -46,6 +51,7 @@
                         <div class="col-9">
                             <h3>3 fatos sobre NPS que você precisa saber</h3>
                             <p>Conheça #3 fatos sobre NPS que te ajudarão a entender melhor esta tecnologia. Como surgiu, como medir e com qual frequência pode ser aplicado.</p>
+                            <a href="https://meuclientesatisfeito.com/blog/descubra-o-nps/3-fatos-sobre-nps.php" target="_blank">Leia Mais</a>
                         </div>
                     </div>
                     <div class="row postHome">                        
@@ -55,8 +61,12 @@
                         <div class="col-9">
                             <h3>5 Motivos para praticar o NPS nas empresas brasileiras</h2>
                             <p>Você já deve ter ouvido falar sobre NPS. Mas, vale a pena praticar o NPS nas empresas brasileiras? A resposta é sim, nesse artigo vamos te dizer porquê!</p>
+                            <a href="https://meuclientesatisfeito.com/blog/nps-na-pratica/nps-nas-empresas-brasileiras.php" target="_blank">Leia Mais</a>
                         </div>
 				    </div>
+                    
+                    
+                    
 			</main>
 			<aside class="col-md-3 offset-md-1">
 				<?php include('components/sidebar.php'); ?>
