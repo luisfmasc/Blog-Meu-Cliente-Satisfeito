@@ -75,3 +75,7 @@ footer .btn {
 .verde {
 	color: darkgreen;
 }
+
+a.AzulClaro:hover {
+    color: white;
+}
