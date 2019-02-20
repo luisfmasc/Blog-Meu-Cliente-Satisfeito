@@ -25,6 +25,9 @@ h4, h5, h6 {
 	color: #091744 !important;
 	text-transform: uppercase;
 }
+a:visited {
+	color: #88F2EE;
+}
 .bgAzulEscuro {
 	background-color: #1C3997;
 }

@@ -9,6 +9,7 @@
 			<input type="email" class="form-control" id="Email1" aria-describedby="emailHelp" placeholder="E-mail" required>
 		</div>
 		<button id="enviarForm" type="submit" class="btn btn-primary" onClick="gtag('event', 'Formulário', {'event_category' : 'aside', event_label' : 'Cadastrou'})">Cadastrar</button>
+        <small>Não se preocupe, não fazemos spam</small>
 	</form>
 </section>
 <section id="tagsSidebar" class="my-5">
