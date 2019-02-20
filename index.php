@@ -27,16 +27,27 @@
 	<!-- Inicio do carousel-->
 <div id="carouselHome" class="carousel slide" data-ride="carousel">
     <ol class="carousel-indicators">
-      <li data-target="#carouselHome" data-slide-to="0" class="active"></li>
-      <li data-target="#carouselHome" data-slide-to="1" class="active"></li>
-      <li data-target="#carouselHome" data-slide-to="2" class="active"></li>
+      <li data-target="#carouselHome" data-slide-to="0" class=""></li>
+      <li data-target="#carouselHome" data-slide-to="1" class=""></li>
+      <li data-target="#carouselHome" data-slide-to="2" class=""></li>
+      <li data-target="#carouselHome" data-slide-to="3" class="active"></li>
+      <li data-target="#carouselHome" data-slide-to="4" class=""></li>
     </ol>
     <div class="carousel-inner">
+      
+      
       <div class="carousel-item active carousel-item-left">
-       <svg class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="800" height="400" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: First slide"><title>Placeholder</title><rect fill="#777" width="100%" height="100%"></rect><text fill="#555" dy=".3em" x="50%" y="50%">First slide</text></svg>
+        <img src="images/banner/a-pergunta-definitiva-1900x400.jpg" />
         <div class="carousel-caption d-none d-md-block">
-          <h5>First slide label</h5>
-          <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+          <h5>Descubra o poder do NPS</h5>
+          <p>Lorem ipsum dolor sit amet, consectetur adipfgiscing elit.</p>
+        </div>
+      </div>
+      <div class="carousel-item carousel-item-next carousel-item-left">
+        <img src="images/banner/nps-nas-empresas-brasileiras-1900x400.jpg" />
+        <div class="carousel-caption d-none d-md-block">
+          <h5>Descubra o poder do NPS</h5>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
         </div>
       </div>
       <div class="carousel-item carousel-item-next carousel-item-left">
@@ -46,13 +57,22 @@
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
         </div>
       </div>
-      <div class="carousel-item">
-        <svg class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="1900" height="400" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Third slide"><title>Placeholder</title><rect fill="#555" width="100%" height="100%"></rect><text fill="#333" dy=".3em" x="50%" y="50%">Third slide</text></svg>
+      <div class="carousel-item carousel-item-next carousel-item-left">
+        <img src="images/banner/nps-por-onde-comecar-1900x400.jpg" />
         <div class="carousel-caption d-none d-md-block">
-          <h5>Third slide label</h5>
-          <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+          <h5>Descubra o poder do NPS</h5>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
         </div>
       </div>
+      <div class="carousel-item carousel-item-next carousel-item-left">
+        <img src="images/banner/o-basico-de-nps-1900x400.jpg" />
+        <div class="carousel-caption d-none d-md-block">
+          <h5>Descubra o poder do NPS</h5>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div>
+      </div>
+      
+      
     </div>
     <a class="carousel-control-prev" href="#carouselHome" role="button" data-slide="prev">
       <span class="carousel-control-prev-icon" aria-hidden="true"></span>
