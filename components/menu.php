@@ -15,8 +15,8 @@
 					<li class="nav-item <?php echo $menuAtivo == 'sobre' ? 'active' : '' ?>">
 						<a class="nav-link" onClick="gtag('event', 'botaoMenu', {'event_category' : 'header', event_label' : 'clickSobre'})" href="../sobre.php">Sobre</a>
 					</li>
-					<li class="nav-item <?php echo $menuAtivo == 'arquivo' ? 'active' : '' ?>">
-						<a class="nav-link" onClick="gtag('event', 'botaoMenu', {'event_category' : 'header', event_label' : 'clickArquivo'})" href="../arquivo.php">Arquivo</a>
+					<li class="nav-item <?php echo $menuAtivo == 'blog' ? 'active' : '' ?>">
+						<a class="nav-link" onClick="gtag('event', 'botaoMenu', {'event_category' : 'header', event_label' : 'clickArquivo'})" href="../blog.php">Blog</a>
 					</li>
 				</ul>
 			</div>
