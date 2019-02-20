@@ -29,50 +29,41 @@
 	<main id="politica" class="container">
 		<section class="row">
 			<main class="col-md-8">
-				<h1 class="mt-5">5 Motivos Para Praticar o NPS Nas Empresas Brasileiras| Meu cliente satisfeito</h1> <!---->
-				<small>19 de fevereiro de 2019, Luan Ciolette, NPS</small><br>
+				<h1 class="mt-5">NPS: Fechando o loop</h1> <!--sasd-->
+				<small>19 de fevereiro de 2019, Ivan Flecha, Fechando de Loop</small><br>
 				<figure class="figure my-5">
-					<img src="images/post/nps-nas-empresas-brasileiras-800x600.jpg" class="figure-img img-fluid rounded" alt="#PraCegoVer: [Fotografia] Três mãos de pessoas diferentes se cumprimentam. Ao fundo está uma mesa com alguns cadernos e um celular."> <!---->
-					<figcaption class="figure-caption">#PraCegoVer: [Fotografia] Três mãos de pessoas diferentes se cumprimentam. Ao fundo está uma mesa com alguns cadernos e um celular.</figcaption>
+					<img src="images/post/insatisfação.jpeg" class="figure-img img-fluid rounded" alt="#PraCegoVer: [Fotografia] Homem furioso grita ao telefone"> <!---->
+					<figcaption class="figure-caption">#PraCegoVer: [Fotografia] Cliente furioso grita ao telefone.</figcaption>
 				</figure>
-				<p> Você já deve ter ouvido falar sobre, já deve ter recebido uma recomendação e até já deve ter recebido uma pesquisa de NPS. Mas afinal, <b>vale a pena praticar o NPS nas empresa brasileiras? </b></p>
-				<p> Neste artigo, busco te convencer que sim e vou te explicar com dados por que as marcas que utilizam o Net Promoter Score saem na frente da concorrência em todos os sentidos.</p>
-				<h2>1. As grandes marcas estão usando o NPS!</h2>
-				<p><b>O Net Promoter Score</b> é uma ferramenta excelente para avaliar a lealdade e a satisfação dos clientes, principalmente pela facilidade de compreensão e por ofertar resultados com alto nível de confiabilidade, claro, se aplicada corretamente.</p>
-				<p>A oportunidade de aprimorar a experiência do cliente em algo positivo e marcante, tem feito do NPS um dos principais motivos para gestores utilizarem a ferramenta como métrica de performance do Customer Experience, além da métrica estar diretamente relacionada aos lucros e resultados das companhias.</p>
-				<p>Abaixo listamos algumas das principais empresas no mundo que usam o Net Promoter Score para mensurar o grau de <b>lealdade e satisfação de seus clientes</b> e assim aperfeiçoar seus produtos e serviços aumentando seus lucros:</p>
-				<figure class="figure my-5">
-					<img src="images/post/logotipo-empresas-nps.jpg" class="figure-img img-fluid rounded" alt="Logos de empresas usando NPS">
-					<figcaption class="figure-caption">#PraCegoVer: [Gráfico] Com diversos logos de empresas usando NPS.</figcaption>
-				</figure>
-				<h2>2. O NPS é importante para o sucesso da sua empresa!</h2>
-				<p>Diversas empresas utilizam esta metodologia para medir a satisfação de seus clientes e verificar em quais áreas é necessário um plano de ação. O que Allianz Group, Canon, Ebay, Facebook, HP, Microsoft e General Motors tem em comum? Todas utilizam esta metodologia em suas empresas!</p>
-				<p>O NPS hoje é a principal métrica focada na fidelidade e experiência do cliente no mundo, ou seja, impacta diretamente no <strong>resultado e na percepção do cliente</strong> ao adquirir produtos e serviços dessa marca. Influenciando ainda na recomendação de fato, ou seja, fazem com que os consumidores recomendem a marca a amigos e familiares.</p>
-				<p>A aplicação NPS está tão difundida, que atualmente <a href="https://customer.guru/net-promoter-score/fortune-500" target="_blank" rel="noopener"><strong>95% das 500 maiores empresas</strong></a> no mundo utilizam essa métrica de lealdade como termômetro de relacionamento com os clientes.</p>
-				<h2>3. Sua empresa deve utilizar o NPS!</h2>
-				<p>A Bain Company produziu um <a href="https://www.bain.com/insights/introducing-the-net-promoter-system-loyalty-insights/" target="_blank" rel="noopener">estudo focado em NPS</a> de instituições financeiras no Brasil e mostrou que apesar do crescimento orgânico em suas receitas, os bancos de média renda possuem um baixo NPS, ou seja, maior volume de clientes detratores. Os bancos de alta renda foram as instituições que apresentaram maior NPS em relação aos de média renda.</p>
-				<p>Nestes casos, quanto maior o número de clientes promotores, maior a aceitação de produtos e a permanência dos clientes com a empresa. Uma vigilância contínua desta métrica possibilita uma revisão constante dos pontos que atraem ou que repelem os clientes, gerando assim oportunidades de melhorar estes serviços para conquistar um número maior de promotores, concomitantemente aumento na retenção e receitas das empresas.</p>
-				<h2>4. As vantagens do NPS</h2>
-				<p>Vamos avaliar os aspectos positivos do sistema NPS e ver como sua empresa se beneficia se os resultados forem aplicados às suas práticas de negócios.</p>
-				<h3>Intuitivo e fácil de usar</h3>
-				<p>A pergunta do modelo de questionário se baseia em uma ideia: descobrir se os seus <strong>clientes gostam o bastante da sua empresa a ponto de recomendá-la</strong>. Esta pergunta costuma ser acompanhada por outra a fim de descobrir porque as pessoas recomendam ou não. Você pode facilmente enviar o questionário para os clientes por e-mail, whatsapp ou até publicá-lo no seu site. O cálculo é intuitivo e exige apenas uma <b>planilha</b>  básica para funcionar.</p>
-				<h3>Excepcional para gestão</h3>
-				<p>Quando os executivos da sua empresa precisam de uma medida prática, rápida e abrangente da fidelidade dos seus clientes, o NPS é uma ótima solução. Além de ajudar a empresa a <strong>comparar seu desempenho ao da concorrência</strong> e pode ser usado pelos gestores para comparar seus diversos produtos ou serviços.</p>
-				<h3>Padroniza a classificação da clientela</h3>
-				<p>A metodologia NPS se subdivide em três categorias de clientes: <strong>Promotores, Detratores e Passivos</strong>. Estas categorias facilitam a classificação da fidelidade dos clientes e padroniza a comunicação e os esforços da sua empresa na hora de tratar sobre a clientela. </p>
-				<h3>Maior facilidade para se referenciar</h3>
-				<p>Um recurso essencial pois a medida é usada como padrão por empresas no mundo todo, facilitando a comparação do seu Net Promoter Score com os seus principais concorrentes. Sua pontuação se torna mais significativa em contexto com outras pontuações do seu setor.</p>
-				<h3>Não deixe o NPS para manhã!</h3>
-				<p>Seja qual for o segmento, nada que superasse o NPS foi inventado até os tempos atuais. Uma métrica que traz insights gerais sobre a<strong> experiência do cliente</strong>, trazendo uma métrica da lealdade que reflete no <strong>crescimento do faturamento</strong> das empresas. </p>
-				<p>Embora o NPS tenha seus fãs e críticos, a coisa mais importante a lembrar é que os clientes têm mais poder do que nunca para expressar suas opiniões, que podem criar ou danificar sua marca.</p>
-				<p>O mais importante é lembrar que o NPS irá gerar dados muito objetivos e de fácil comparação, perfeitos para acompanhamento e por isso, deve ser utilizado continuamente.</p>
-				<p>Para encerrar, o NPS é um ótimo ponto de partida justamente por sua simplicidade. Após a análise dos resultados, o trabalho real é agir sobre os feedbacks coletados, para começar a melhorar sua organização e desenvolver as ações necessárias para aumentar o NPS e permite que você avalie perfeitamente em qual etapa do processo de crescimento a sua organização está.</p>
-				<ul class="tagsFooter list-inline my-3">
-					<li class="list-inline-item"><a href="#">NPS</a></li>
-					<li class="list-inline-item"><a href="#">NPS no Brasil</a></li>
-					<li class="list-inline-item"><a href="#">Satisfação de clientes</a></li>
-					<li class="list-inline-item"><a href="#">Sucesso da marca</a></li>
-				</ul>
+				<p>Não há empresa, negócio ou profissional liberal que sobreviva ao <a href="nps-nas-empresas-brasileiras.php" target="_blank" rel="noopener">diferencial de qualidade do atendimento de seus concorrentes.</a> Os tempos mudaram, experiência do cliente é parte integrante de qualquer venda. Experiência é tudo - quem ainda compete através de preço e produto está no passado.Não há empresa, negócio ou profissional liberal que sobreviva ao diferencial de qualidade do atendimento de seus concorrentes. Os tempos mudaram, experiência do cliente é parte integrante de qualquer venda. Experiência é tudo - quem ainda compete através de preço e produto está no passado. Aqui vou te mostrar como fazer o Fechamento de Loop de acordo com as notas do NPS.</p>
+				<p><a href="nps-o-que-e.php" target="_blank" rel="noopener">Após aplicar o NPS</a> classifique e atue sobre cada resultado:</p>
+				<h6>10 — O cliente teve uma ótima experiência — sua vida melhorou muito depois de contratar com você!</h6><br>
+				<p>Como você conquistou esta nota?</p>
+				<p><i>Esforço intenso pela satisfação do cliente: atendimento atencioso, produto otimizado com sugestões de clientes passados, preço justo, entrega ágil e descomplicada.</i></p>
+				<strong>Como proceder com esta nota?</strong>
+				<p>Mantenha o contato, não deixe o cliente esquecer de você! Uma experiência ruim sempre é lembrada, as boas precisam de um empurrãozinho. Se o seu modelo de negócios permitir, crie estratégias de Cross Sell e Up Sell.</p>
+				<br><br>
+				<h6>9 — Atendimento excelente, fez a diferença para o cliente. Faltaram pequenos detalhes para que fosse perfeito. O cliente te recomendará sem ressalva!</h6>
+				<p>Como você conquistou esta nota?</p>
+				<p><i>Pensou no melhor para seus clientes e resolveu suas dores. Faltam apenas estratégias para torná-los seus fãs!</i></p>
+				<strong>Como proceder com esta nota?</strong>
+				<p>Pergunte detalhes, interesse-se pela opinião dos clientes, pergunte o que faltou, o que seria excepcional.</p>
+				<h6>7 e 8 — Existe alguma ressalva, o produto é bom mas existe “um porém”.</h6>
+				<strong>Como você conquistou esta nota?</strong>
+				<p><i>O produto e o atendimento são bons mas apesar de estarem no caminho certo algum erro ou desafio está lhe impedindo de conquistar nota mais alta. Falta algo!</i></p>
+				<strong>Como proceder com esta nota?</strong>
+				<p>Estude e descubra (rápido!) este ponto-chave para surpreender o cliente na próxima vez e torná-lo promotor de suas vendas.</p>
+				<h6>4, 5 e 6 — Foi frustrante fazer negócio com você. Esse cliente não irá retornar a menos que seja questão de vida ou morte.</h6>
+				<strong>Como você conquistou esta nota?</strong>
+				<p><i>O cliente foi tratado com indiferença, algo aconteceu de errado ou foi insuficiente e você não prestou atenção a isso.</i></p>
+				<strong>Como proceder com esta nota?</strong>
+				<p>Humildade é a chave. Peça desculpas, solucione o problema se ele persistir e prove pra ele que o erro não irá se repetir, que os processos serão mudados para garantir a mudança.</p>
+				<h6>0,1,2 e 3 — Experiência terrível. O cliente prefere ir até outra cidade do que te contratar de novo. Ele pagaria o dobro do preço em qualquer concorrente só para te evitar.</h6>
+				<strong>Como você conquistou esta nota?</strong>
+				<p><i>Estratégia errada e ações ruins criaram atrito em vários pontos de contato, criando uma experiência desagradabilíssima.</p></i>
+				<strong>Como proceder com esta nota?</strong>
+				<p>Antes de mais nada, não se desespere. Nenhum cliente está fora do alcance de uma boa gestão de experiência — todos podem ser convertidos a promotor. Peça desculpas o quanto antes e resolva o problema do cliente imediatamente. Se puder, tenha uma carta na manga, um brinde ou vantagem para compensar a dor do cliente.</p>
+				<p>O que resta você saber, que é o mais importante, é que todos os clientes do mundo QUEREM ser encantados e ESPERAM que você faça deles seus fãs. Implemente ferramentas para alcançar isso e jamais sofrerá de escassez, não importando o tamanho de crise econômica ou a situação do país.</p>
 			</main>
 			<aside class="col-md-3 offset-md-1">
 				<?php include('components/sidebar.php'); ?>
