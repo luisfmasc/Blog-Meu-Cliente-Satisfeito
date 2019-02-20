@@ -40,7 +40,7 @@
 		<li class="media my-3">
 			<img src="../images/thumbs/o-basico-de-nps-100x100.jpg" class=" mr-3" width="100" height="100" a href="../o-basico-de-nps.php" onClick="gtag('event', 'maisLidas', {'event_category' : 'aside', event_label' : 'artigoImagem2'})">
 			<div class="media-body">
-				<h5><a href="../o-basico-de-nps.php" onClick="gtag('event', 'maisLidas', {'event_category' : 'aside', event_label' : 'artigoTitulo2'})">O Básico de NPS Que Você Precisa Saber</a></h5>
+				<h5><a href="../3-fatos-sobre-nps.php" onClick="gtag('event', 'maisLidas', {'event_category' : 'aside', event_label' : 'artigoTitulo2'})">O Básico de NPS Que Você Precisa Saber</a></h5>
 			</div>
 		</li>
 		<li class="media my-3">

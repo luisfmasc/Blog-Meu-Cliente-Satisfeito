@@ -258,7 +258,12 @@
 </p>
 
 				<ul class="tagsFooter list-inline my-3">
-					<li class="list-inline-item"><a href="#">Tag1</a></li> <!---->
+					<li class="list-inline-item"><a href="#">NPS</a></li>
+					<li class="list-inline-item"><a href="#">O que é NPS</a></li>
+					<li class="list-inline-item"><a href="#">Importância do NPS	</a></li>
+					<li class="list-inline-item"><a href="#">Como funciona NPS	</a></li>
+					<li class="list-inline-item"><a href="#">Como medir satisfação dos clientes</a></li>
+					<li class="list-inline-item"><a href="#">Satisfação de clientes</a></li>
 				</ul>
 			</main>
 			<aside class="col-md-3 offset-md-1">

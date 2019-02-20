@@ -69,3 +69,16 @@ footer .btn {
 #post {
 	text-align: justify;
 }
+.vermelho {
+	color: red;
+}
+.verde {
+	color: darkgreen;
+}
+
+a.AzulClaro:hover {
+    color: white;
+}
+.fa.fa-facebook {
+    font-size: 1.4em;
+}
