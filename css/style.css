@@ -76,9 +76,16 @@ footer .btn {
 	color: darkgreen;
 }
 
+
+
+
 a.AzulClaro:hover {
     color: white;
 }
 span.fa.fa-facebook {
     font-size: 1.4em;
 }
+.row {
+    margin-top: 3%;
+    margin-bottom: 3%;
+	}
