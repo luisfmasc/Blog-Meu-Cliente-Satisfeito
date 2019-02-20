@@ -75,3 +75,10 @@ footer .btn {
 .verde {
 	color: darkgreen;
 }
+
+a.AzulClaro:hover {
+    color: white;
+}
+.fa.fa-facebook {
+    font-size: 1.4em;
+}
