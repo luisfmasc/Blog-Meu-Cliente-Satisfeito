@@ -1,5 +1,5 @@
 <section id="Form1" class="my-5">
-	<h4>Conteúdo exclusívo</h4>
+	<h4>Conteúdo exclusivo</h4>
 	<p>Inscreva-se em nossa newsletter para receber conteúdo gratuito sobre NPS e Gestão de Experiência.</p>
 	<form id="contato">
 		<div class="form-group">
