@@ -41,7 +41,6 @@
       </div>
       <div class="carousel-item carousel-item-next carousel-item-left">
         <img src="images/banner/nps-o-que-e-1900x400.jpg" />
-        <img src="images/banner/a-pergunta-definitiva-1900x400.jpg" />
         <div class="carousel-caption d-none d-md-block">
           <h5>Descubra o poder do NPS</h5>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
