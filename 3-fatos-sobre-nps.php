@@ -37,7 +37,7 @@
 				</figure>
 					<section id="post">
 						<p>Ainda não conhece a <b>metodologia NPS</b>? Então saiba o que as grandes empresas como Amazon, Starbucks, e Nike estão usando para melhorar seus resultados.</p>
-						<p>NPS, ou <b>Net Promoter Score</b>, hoje é é usado por<b> 95% das 500 maiores empresas do mundo</b>, segundo a revista Fortune. <a href="http://meuclientesatisfeito.com/nps-o-que-e" target="_blank" rel="noopener">Neste outro artigo</a> já falamos mais sobre o que é e como funciona o NPS. </p>
+						<p>NPS, ou <b>Net Promoter Score</b>, hoje é é usado por<b> 95% das 500 maiores empresas do mundo</b>, segundo a revista Fortune. <a href="http://meuclientesatisfeito.com/nps-o-que-e.php" target="_blank" rel="noopener">Neste outro artigo</a> já falamos mais sobre o que é e como funciona o NPS. </p>
 						<p>Para melhorar ainda mais seu conhecimento sobre o assunto, listamos <b>3 fatos sobre NPS que você precisa saber:</b></p>
 						<h2>Fato #1: como surgiu o NPS</h2>
 						<p>A metodologia do Net Promoter Score (NPS) foi criada por <b>Fred Reichheld</b>, nos EUA, com intuito de medir o índice de lealdade dos clientes por meio de uma única pergunta “<b>A pergunta definitiva</b>” expressão que também é título de dois livros do autor que são a base da metodologia, lançados após a primeira apresentação sobre o tema em 2003.</p>
