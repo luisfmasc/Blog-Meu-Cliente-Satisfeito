@@ -17,7 +17,7 @@
 	  include('components/analytics.html'); ?>
 	<script>
 		gtag( 'event', 'page_view', {
-			'send_to': 'UA-134713675-1',
+			'send_to': 'AW-761531403',,
 		} );
 	</script>
 </head>
@@ -33,7 +33,7 @@
     </ol>
     <div class="carousel-inner">
       <div class="carousel-item active carousel-item-left">
-        <svg class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="800" height="400" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: First slide"><title>Placeholder</title><rect fill="#777" width="100%" height="100%"></rect><text fill="#555" dy=".3em" x="50%" y="50%">First slide</text></svg>
+        <svg class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="1900" height="400" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: First slide"><title>Placeholder</title><rect fill="#777" width="100%" height="100%"></rect><text fill="#555" dy=".3em" x="50%" y="50%">First slide</text></svg>
         <div class="carousel-caption d-none d-md-block">
           <h5>First slide label</h5>
           <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
@@ -47,7 +47,7 @@
         </div>
       </div>
       <div class="carousel-item">
-        <svg class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="800" height="400" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Third slide"><title>Placeholder</title><rect fill="#555" width="100%" height="100%"></rect><text fill="#333" dy=".3em" x="50%" y="50%">Third slide</text></svg>
+        <svg class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="1900" height="400" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Third slide"><title>Placeholder</title><rect fill="#555" width="100%" height="100%"></rect><text fill="#333" dy=".3em" x="50%" y="50%">Third slide</text></svg>
         <div class="carousel-caption d-none d-md-block">
           <h5>Third slide label</h5>
           <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
