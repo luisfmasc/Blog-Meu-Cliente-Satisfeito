@@ -4,12 +4,13 @@
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta property="og:url" content="https://meuclientesatisfeito.com"/>
+	<meta property="og:url" content="https://meuclientesatisfeito.com/nps-o-que-e.php"/>
 	<meta property="og:type" content="post"/>
-	<meta property="og:title" content="Meu cliente satisfeito"/> <!---->
-	<meta property="og:description" content=""/> <!---->
-	<meta property="og:image" content="https://meuclientesatisfeito.com/images/institucional.png"/> <!--tumb-->
-	<title>NPS: O quê e porquê| Meu cliente satisfeito</title> <!---->
+	<meta property="og:title" content="De 0 a 10, o quanto seu cliente está satisfeito com sua empresa? | Meu Cliente Satisfeito "/> <!---->
+	<meta property="og:description" content="Você sabe o quanto seu cliente está satisfeito com a empresa? Descubra o que é Net Promoter Score (NPS) e saiba porque é importante para o crescimento da empresa."/>
+	<meta property="og:image" content="https://meuclientesatisfeito.com/images/post/nps-o-que-e-800x600.jpg"/> <!--tumb-->
+	<meta property="description" content="Você sabe o quanto seu cliente está satisfeito com a empresa? Descubra o que é Net Promoter Score (NPS) e saiba porque é importante para o crescimento da empresa."/>
+	<title>NPS: O que é e porque é importante para sua empresa| Meu cliente satisfeito</title> <!---->
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
 	<link href="css/style.css" rel="stylesheet">
 	<?php  $menuAtivo = 'post';
