@@ -15,8 +15,8 @@
 <?php  $menuAtivo = 'sobre';
 	  include('components/analytics.html'); ?>
 	<script>
-		gtag( 'event', 'page_view', {
-			'send_to': 'UA-134713675-1',
+        gtag( 'event', 'page_view', {
+			'send_to': 'AW-761531403',
 		} );
 	</script>
 </head>
