@@ -52,17 +52,22 @@ footer .btn {
 	color: #1C3997;
 	float: right;
 }
+#Form2 .btn-primary {
+	background-color: #88F2EE ;
+	border-color: #88F2EE;
+	color: #1C3997;
+}
 #maisLidas h5 {
 	text-transform: none;
 	font-size: 16px;
 }
-#Form1 .form-control {
+#Form1 .form-control,#Form2 .form-control  {
 	border-top: 0px;
 	border-left: 0px;
 	border-right: 0px;
 	border-radius: 0px;
 }
-#Form1 .form-control {
+#Form1 .form-control,#Form2 .form-control  {
 	border-bottom: solid #707070 1px;
 }
 .nav-link{
@@ -79,8 +84,30 @@ footer .btn {
     border: 0px ;
     border-bottom: solid #1C3997 1px;
 }
-
-
+.no-header {
+    border-radius: 0.3rem;
+    padding: 2rem;
+}
+#FormOk{
+	background-color: #1C3997;
+    color: #FFFFFF;
+    text-align: center;
+}
+#FormErro{
+	background-color: #c41616;
+    color: #FFFFFF;
+    text-align: center;
+}
+#FormOk h1{
+    color: #88F2EE !important;
+    text-transform: none;
+    font-size: 3.5em;
+}
+#FormErro h1{
+    color: #EBB850 !important;
+    text-transform: none;
+    font-size: 3.5em;
+}
 a.AzulClaro:hover {
     color: white;
 }
