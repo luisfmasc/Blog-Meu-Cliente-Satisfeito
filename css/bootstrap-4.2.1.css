@@ -575,7 +575,9 @@ pre code {
   margin-left: auto;
 }
 
-.row {
+.row {    
+  margin-bottom: 4%;
+  margin-top: 4%;
   display: -ms-flexbox;
   display: flex;
   -ms-flex-wrap: wrap;
