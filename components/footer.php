@@ -9,10 +9,10 @@
 				<a class="AzulClaro" href="mailto:contato@meuclientesatisfeito.com">contato@meuclientesatisfeito.com</a>
 			</div>
 			<div class="col-sm-3 col-lg-offset-1 col-lg-2 col-sm-offset-0 col-md-offset-1 col-xs-offset-0 col-xs-5" id="social">
-			  <a class="btn btn-social-icon " href="https://www.facebook.com/#" target="_blank" onClick="gtag('event', 'botaoSocial', {'event_category' : 'footer', 'event_label' : 'facebook'})"  title="Siga-nos no Facebook">
+			  <a class="btn btn-social-icon " href="https://www.facebook.com/meuclientesatisfeito.NPS/" target="_blank" onClick="gtag('event', 'botaoSocial', {'event_category' : 'footer', 'event_label' : 'facebook'})"  title="Siga-nos no Facebook">
 				<span class="fa fa-facebook"></span>
 			  </a>
-			  <a class="btn btn-social-icon" href="http://instagram.com/#" target="_blank" onClick="gtag('event', 'botaoSocial', {'event_category' : 'footer', 'event_label' : 'instagram'})" title="Siga-nos no Instagram">
+			  <a class="btn btn-social-icon" href="https://www.instagram.com/meuclientesatisfeito/" target="_blank" onClick="gtag('event', 'botaoSocial', {'event_category' : 'footer', 'event_label' : 'instagram'})" title="Siga-nos no Instagram">
 				<span class="fa fa-instagram"></span>
 			  </a>
 			  <a class="btn btn-social-icon" href="https://www.linkedin.com/company/#" target="_blank" onClick="gtag('event', 'botaoSocial', {'event_category' : 'footer', 'event_label' : 'linkedin'})" title="Siga-nos no Linkedin">
