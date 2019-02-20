@@ -6,12 +6,12 @@
 			</button>
 			<div class="collapse navbar-collapse" id="navbarSupportedContent">
 				<ul class="navbar-nav offset-6">
-					<li class="nav-item <?php echo $menuAtivo == 'books' ? 'active' : '' ?>">
+					<!--<li class="nav-item <?php echo $menuAtivo == 'books' ? 'active' : '' ?>">
 						<a class="nav-link" onClick="gtag('event', 'botaoMenu', {'event_category' : 'header', event_label' : 'clickBooks'})" href="../materiais.php">E-books</a>
 					</li>
 					<li class="nav-item <?php echo $menuAtivo == 'contato' ? 'active' : '' ?>">
 						<a class="nav-link" onClick="gtag('event', 'botaoMenu', {'event_category' : 'header', event_label' : 'clickContato'})" href="../contato.php">Contato</a>
-					</li>
+					</li>-->
 					<li class="nav-item <?php echo $menuAtivo == 'sobre' ? 'active' : '' ?>">
 						<a class="nav-link" onClick="gtag('event', 'botaoMenu', {'event_category' : 'header', event_label' : 'clickSobre'})" href="../sobre.php">Sobre</a>
 					</li>
