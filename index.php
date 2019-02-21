@@ -113,7 +113,8 @@
                     
                     <div class="row postHome">                        
                         <figure class="col-3">
-                            <img src="images/post/nps-o-que-e-800x600.jpg" width="100%" class="img-thumbnail" />
+                           <a href="https://meuclientesatisfeito.com/blog/descubra-o-nps/nps-o-que-e.php" target="_blank">
+                            <img src="images/post/nps-o-que-e-800x600.jpg" width="100%" class="img-thumbnail" /></a>
                         </figure>
                         <div class="col-9">
                             <h3>NPS: O que é e porque é importante para sua empresa</h3>
@@ -124,7 +125,7 @@
                     </div>
                     <div class="row postHome">                        
                         <figure class="col-3">
-                            <img src="images/thumbs/o-basico-de-nps-100x100.jpg" width="100%" class="img-thumbnail" />
+                            <a href="https://meuclientesatisfeito.com/blog/descubra-o-nps/3-fatos-sobre-nps.php" target="_blank"> <img src="images/thumbs/o-basico-de-nps-100x100.jpg" width="100%" class="img-thumbnail" /></a>
                         </figure>
                         <div class="col-9">
                             <h3>3 fatos sobre NPS que você precisa saber</h3>
@@ -134,7 +135,7 @@
                     </div>
                     <div class="row postHome">                        
                         <figure class="col-3">
-                            <img src="images/thumbs/nps-nas-empresas-brasileiras-100x100.jpg" width="100%" class="img-thumbnail" />
+                          <a href="https://meuclientesatisfeito.com/blog/nps-na-pratica/nps-nas-empresas-brasileiras.php" target="_blank">  <img src="images/thumbs/nps-nas-empresas-brasileiras-100x100.jpg" width="100%" class="img-thumbnail" /></a>
                         </figure>
                         <div class="col-9">
                             <h3>5 Motivos para praticar o NPS nas empresas brasileiras</h2>
