@@ -20,7 +20,7 @@
     <body>
 	<section id="bannerInstitucional">
 		<header class="container" >
-			<div id="logo" class="col-sm-6 col-sm-offset-3">
+			<div id="logo" class="col-sm-3">
 				<img class="img-responsive" src="../images/logotipoClienteSatisfeitoNegativo.png" alt="Logotipo da Meu Cliente Satisfeito" height="100" />
 			</div>
 		</header>
@@ -39,6 +39,7 @@
 				</div>
 			</div>
 		</section>
+    </section>
 		<section class="container">
 			<div id="content" class="row">
                 <div class="col-md-8 col-md-offset-2">
@@ -59,8 +60,6 @@
 
 			</div>
 		</section>
-	</section>	  
-
 	<?php include ('../components/footerCompacto.php') ?> 
   </body>
 

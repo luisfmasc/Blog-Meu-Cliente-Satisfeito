@@ -6,8 +6,8 @@
 
 body {
 	font-family: 'Roboto', sans-serif;
-	color: #091744;
-	font-size: 1em;
+	color: #88F2EE;
+	font-size: 1.5em;
 	font-weight: 300;
 }
 footer {
@@ -80,3 +80,12 @@ a:visited {
 a.AzulClaro:hover {
     color: white;
 }
+.center {
+    text-align: center;
+    font-size: 1em;
+}
+#logo {
+    margin-top: 3rem;
+}
+
+
