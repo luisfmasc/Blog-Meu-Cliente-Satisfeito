@@ -108,34 +108,38 @@
                     
                     <div class="row postHome">                        
                         <figure class="col-3">
-                           <a href="https://meuclientesatisfeito.com/blog/descubra-o-nps/nps-o-que-e.php" target="_blank">
+                           <a href="https://meuclientesatisfeito.com/blog/descubra-o-nps/nps-o-que-e.php" onClick="gtag('event', 'Imagem', {'event_category' : 'posts', event_label' : 'Post1'})">
                             <img src="images/post/nps-o-que-e-800x600.jpg" width="100%" class="img-thumbnail" /></a>
                         </figure>
                         <div class="col-9">
-                            <h3>NPS: O que é e porque é importante para sua empresa</h3>
+                            <a href="https://meuclientesatisfeito.com/blog/descubra-o-nps/nps-o-que-e.php" onClick="gtag('event', 'Titulo', {'event_category' : 'posts', event_label' : 'Post1'})"><h3>NPS: O que é e porque é importante para sua empresa</h3></a>
                             <p>Você sabe o quanto seu cliente está satisfeito com a empresa? Descubra o que é Net Promoter Score (NPS) e saiba porque é importante para o crescimento da empresa.</p>
-          <a href="https://meuclientesatisfeito.com/blog/descubra-o-nps/nps-o-que-e.php" target="_blank">Leia Mais</a>
-
+                            <button class="btn btn-primary btn-home">
+                                <a href="https://meuclientesatisfeito.com/blog/descubra-o-nps/nps-o-que-e.php" onClick="gtag('event', 'Leia Mais', {'event_category' : 'posts', event_label' : 'Post1'})">Leia Mais</a></button>
                         </div>
                     </div>
                     <div class="row postHome">                        
                         <figure class="col-3">
-                            <a href="https://meuclientesatisfeito.com/blog/descubra-o-nps/3-fatos-sobre-nps.php" target="_blank"> <img src="images/thumbs/o-basico-de-nps-100x100.jpg" width="100%" class="img-thumbnail" /></a>
+                            <a href="https://meuclientesatisfeito.com/blog/descubra-o-nps/3-fatos-sobre-nps.php" onClick="gtag('event', 'Imagem', {'event_category' : 'posts', event_label' : 'Post2'})">
+                                <img src="images/thumbs/o-basico-de-nps-100x100.jpg" width="100%" class="img-thumbnail" /></a>
                         </figure>
                         <div class="col-9">
-                            <h3>3 fatos sobre NPS que você precisa saber</h3>
+                            <a href="https://meuclientesatisfeito.com/blog/descubra-o-nps/3-fatos-sobre-nps.php" onClick="gtag('event', 'Titulo', {'event_category' : 'posts', event_label' : 'Post2'})"><h3>3 fatos sobre NPS que você precisa saber</h3></a>
                             <p>Conheça #3 fatos sobre NPS que te ajudarão a entender melhor esta tecnologia. Como surgiu, como medir e com qual frequência pode ser aplicado.</p>
-                            <a href="https://meuclientesatisfeito.com/blog/descubra-o-nps/3-fatos-sobre-nps.php" target="_blank">Leia Mais</a>
+                            <button class="btn btn-primary btn-home">
+                                <a href="https://meuclientesatisfeito.com/blog/descubra-o-nps/3-fatos-sobre-nps.php" onClick="gtag('event', 'Leia Mais', {'event_category' : 'posts', event_label' : 'Post2'})">Leia Mais</a></button>
                         </div>
                     </div>
                     <div class="row postHome">                        
                         <figure class="col-3">
-                          <a href="https://meuclientesatisfeito.com/blog/nps-na-pratica/nps-nas-empresas-brasileiras.php" target="_blank">  <img src="images/thumbs/nps-nas-empresas-brasileiras-100x100.jpg" width="100%" class="img-thumbnail" /></a>
+                          <a href="https://meuclientesatisfeito.com/blog/nps-na-pratica/nps-nas-empresas-brasileiras.php" onClick="gtag('event', 'Imagem', {'event_category' : 'posts', event_label' : 'Post3'})">
+                              <img src="images/thumbs/nps-nas-empresas-brasileiras-100x100.jpg" width="100%" class="img-thumbnail" /></a>
                         </figure>
                         <div class="col-9">
-                            <h3>5 Motivos para praticar o NPS nas empresas brasileiras</h2>
+                            <a href="https://meuclientesatisfeito.com/blog/nps-na-pratica/nps-nas-empresas-brasileiras.php" onClick="gtag('event', 'Titulo', {'event_category' : 'posts', event_label' : 'Post3'})"><h3>5 Motivos para praticar o NPS nas empresas brasileiras</h2></a>
                             <p>Você já deve ter ouvido falar sobre NPS. Mas, vale a pena praticar o NPS nas empresas brasileiras? A resposta é sim, nesse artigo vamos te dizer porquê!</p>
-                            <a href="https://meuclientesatisfeito.com/blog/nps-na-pratica/nps-nas-empresas-brasileiras.php" target="_blank">Leia Mais</a>
+                            <button class="btn btn-primary">
+                                <a href="https://meuclientesatisfeito.com/blog/nps-na-pratica/nps-nas-empresas-brasileiras.php" onClick="gtag('event', 'Leia Mais', {'event_category' : 'posts', event_label' : 'Post3'})">Leia Mais</a></button>
                         </div>
 				    </div>
                     

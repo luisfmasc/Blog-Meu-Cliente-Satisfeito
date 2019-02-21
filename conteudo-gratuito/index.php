@@ -6,16 +6,16 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta property="og:url" content="https://meuclientesatisfeito.com/landing-page"/>
         <meta property="og:type" content="product"/>
-        <meta property="og:title" content="Meu cliente satisfeito"/>
-        <!--		<meta property="og:description"        content="" />-->
+        <meta property="og:title" content="Conteúdo Gratuito | Meu cliente satisfeito"/>
+        <meta property="og:description"        content="Você empreendedor que está na luta para conseguir mais clientes, oferecemos a você um conteúdo gratuito perfeito para facilitar seu entendimento e colocar na pratica o Net Promoter Score. Vai perder essa oportunidade?" />
         <meta property="og:image" content="https://meuclientesatisfeito.com/images/institucional.png"/>
-        <!--		<meta name="description" content=""/>
-            <meta name="robots" content="index,follow"/>-->
+        <meta name="description" content="Você empreendedor que está na luta para conseguir mais clientes, oferecemos a você um conteúdo gratuito perfeito para facilitar seu entendimento e colocar na pratica o Net Promoter Score. Vai perder essa oportunidade?"/>
+<!--        <meta name="robots" content="index,follow"/>-->
         <meta property="og:locale" content="pt_BR"/>
-        <title>Meu cliente satisfeito </title>
+        <title>Conteúdo Gratuito | Meu cliente satisfeito </title>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
         <link href="../css/stylePages.css" rel="stylesheet">
-        <?php include('../components//analytics.html'); ?>
+        <?php include('../components/analytics.html'); ?>
     </head>
     <body>
 	<section id="bannerInstitucional">
