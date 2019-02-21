@@ -1,4 +1,4 @@
-<section id="Form1" class="linha-baixo">
+<section id="Form1" class="my-5">
 	<h4>Conteúdo exclusivo</h4>
 	<p>Inscreva-se em nossa newsletter para receber conteúdo gratuito sobre NPS e Gestão de Experiência.</p>
 	<form id="contato">
@@ -12,7 +12,7 @@
         <small>Não se preocupe, não fazemos spam</small>
 	</form>
 </section>
-<!--<section id="tagsSidebar" class="my-5 linha-baixo">
+<section id="tagsSidebar" class="my-5">
 	<h4>Tags</h4>
 	<ul class="numesTags list-inline">
 		<li class="list-inline-item"><a href="#" onClick="gtag('event', 'numesTags', {'event_category' : 'aside', event_label' : 'Como funciona NPS'})">Como funciona NPS</a></li>
@@ -28,8 +28,8 @@
 		<li class="list-inline-item"><a href="#" onClick="gtag('event', 'numesTags', {'event_category' : 'aside', event_label' : 'Sucesso da marca'})">Sucesso da marca</a></li>
 		<li class="list-inline-item"><a href="#" onClick="gtag('event', 'numesTags', {'event_category' : 'aside', event_label' : 'Sucesso do cliente'})">Sucesso do cliente</a></li>
 	</ul>
-</section>-->
-<section id="maisLidas">
+</section>
+<section id="maisLidas" class="my-5">
 	<h4>Mais Lidas</h4>
 	<ul class="maisLidas list-unstyled">
 		<li class="media">

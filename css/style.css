@@ -125,10 +125,10 @@ a.AzulClaro:hover {
 span.fa.fa-facebook {
     font-size: 1.4em;
 }
-.linha-baixo {
+.postHome {
     border-bottom: 1px solid #AEAEAE;
-    padding-bottom: 2em;
-    margin-bottom: 2em;
+    margin-top: 3%;
+    padding-bottom: 3%;
 }
 .mb-5, .my-5 {
     margin-bottom: 5rem!important;
@@ -147,7 +147,4 @@ h2 {
 }
 h1.mt-5 {
     color: #1C3997!important;
-}
-item.carousel-item-next.carousel-item-left img {
-    max-width: 100%!important;
 }
