@@ -46,6 +46,16 @@ a:visited {
 footer .btn {
 	color: #FFF;
 }
+.postHome .btn-primary a, .postHome .btn-primary {
+    color: #FFFFFF !important;
+	background-color: #1C3997 ;
+	border-color: #1C3997;
+	color: white;
+	float: right;
+}
+.postHome .btn-primary a:visited, postHome .btn-primary {
+    color: #FFFFFF !important;
+}
 #Form1 .btn-primary {
     width: 100%;
 	background-color: #1C3997 ;
