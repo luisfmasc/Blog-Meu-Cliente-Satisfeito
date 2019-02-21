@@ -34,7 +34,7 @@
 					</div>
 				</div>
 				<div id="form" class="col-md-5 col-md-offset-1" >
-					<figure><img src="../images/mockup.png" alt="Gráfico ilustrando o e-book" width="100%" /></figure>
+					<figure><img src="../images/mockup-book.png" alt="Gráfico ilustrando o e-book" width="100%" /></figure>
 				</div>
 			</div>
 		</section>
@@ -108,9 +108,8 @@
     
 	<script src="../js/docs.js"></script>   
 
-
-<!--Firebase assync-->
-<script src="https://www.gstatic.com/firebasejs/5.8.3/firebase.js"></script>
-<script src="../js/main.js"></script>  </body>
+    <!--Firebase -->
+    <script src="https://www.gstatic.com/firebasejs/5.8.3/firebase.js"></script>
+    <script src="../js/main.js"></script>  </body>
 
 </html>
