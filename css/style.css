@@ -125,10 +125,10 @@ a.AzulClaro:hover {
 span.fa.fa-facebook {
     font-size: 1.4em;
 }
-.postHome {
+.linha-baixo {
     border-bottom: 1px solid #AEAEAE;
-    margin-top: 3%;
-    padding-bottom: 3%;
+    padding-bottom: 2em;
+    margin-bottom: 2em;
 }
 .mb-5, .my-5 {
     margin-bottom: 5rem!important;
