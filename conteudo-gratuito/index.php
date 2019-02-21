@@ -10,7 +10,6 @@
         <meta property="og:description"        content="Você empreendedor que está na luta para conseguir mais clientes, oferecemos a você um conteúdo gratuito perfeito para facilitar seu entendimento e colocar na pratica o Net Promoter Score. Vai perder essa oportunidade?" />
         <meta property="og:image" content="https://meuclientesatisfeito.com/images/institucional.png"/>
         <meta name="description" content="Você empreendedor que está na luta para conseguir mais clientes, oferecemos a você um conteúdo gratuito perfeito para facilitar seu entendimento e colocar na pratica o Net Promoter Score. Vai perder essa oportunidade?"/>
-<!--        <meta name="robots" content="index,follow"/>-->
         <meta property="og:locale" content="pt_BR"/>
         <title>Conteúdo Gratuito | Meu cliente satisfeito </title>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -40,7 +39,7 @@
 			</div>
 		</section>
     </section>
-		<section class="container">
+		<section class="container my-5">
 			<div id="content" class="row">
                 <div class="col-md-8 col-md-offset-2">
                     <h2>O conteúdo</h2>
@@ -48,11 +47,11 @@
                     <p>Mas não posso fazer isso sozinho, preciso que você se comprometa a ler todo o material, usar a planilha, exercitar na prática e caso tenha alguma dúvida nós da <a href="https://meuclientesatisfeito.com">Meu Cliente Satisfeito</a> estamos aqui para te ajudar, é só nos enviar um e-mail com as dúvidas!</p>                  
                     <h3>O que você vai encontrar no material:</h3>
                     <ol>
-                        <li>Como satisfazer seu cliente</li>
-                        <li>Como aprender com seu cliente</li>
-                        <li>Como fidelizar seu cliente</li>
-                        <li>Como implantar e extrair os resultados do NPS.</li>
-                        <li>Como agir para melhorar seus resultados.</li>
+                        <li>Como satisfazer seu cliente;</li>
+                        <li>Como aprender com seu cliente;</li>
+                        <li>Como fidelizar seu cliente;</li>
+                        <li>Como implantar e extrair os resultados do NPS;</li>
+                        <li>Como agir para melhorar seus resultados;</li>
                         <li>Uma Planilha pronta para você começar a executar.</li>
                     </ol>
                     <button class="azulEscuro">Ok, você me convenceu, me dá logo esse material!</button>

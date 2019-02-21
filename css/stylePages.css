@@ -6,23 +6,31 @@
 
 body {
 	font-family: 'Roboto', sans-serif;
-	color: #88F2EE;
+	color: #091744;
 	font-size: 1.5em;
 	font-weight: 300;
 }
 footer {
-	min-height: 95px;
 	padding: 20px 0px;
-	font-size: 0.941em;
+	font-size: 1em;
 	color: #fff;
 }
 h1 {
 	color: #FFFFFF;
     font-weight: 700;
 }
-a:visited {
-	color: #88F2EE;
+h2 {
+    font-size: 2.8em;
+    font-weight:700;
 }
+h3 {
+    font-size: 2.3em;
+    font-weight:700;
+}
+a {
+    color: #1C3997;
+}
+
 .bgAzulEscuro {
 	background-color: #1C3997;
 }
@@ -34,6 +42,10 @@ a:visited {
 }
 .AzulClaro{
 	color: #88F2EE;
+}
+.my-5 {
+    margin-bottom: 5em;
+    margin-top: 5em;
 }
 #bannerInstitucional {
 	background-image: url("../images/InstitucionalBg.png");
@@ -87,5 +99,33 @@ a.AzulClaro:hover {
 #logo {
     margin-top: 3rem;
 }
+.negativo {
+    color:#FFFFFF;
+}
 
+.azulEscuro {
+    width: 100%;
+    background-color: #1c3997;
+    color:#FFFFFF;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 0.5em;
+    border-color: #1c3997;
+    border-radius: 0.3rem;
+    font-weight: 700;
+    margin-top: 2em;
+    
+}
 
+.azulClaro {
+    width: 100%;
+    background-color: #66f5f2;
+    color:#1c3997;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 0.5em;
+    border-color: #66f5f2;
+    border-radius: 0.3rem;
+    font-weight: 700;
+    margin-top: 2em;
+}
