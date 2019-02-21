@@ -31,7 +31,8 @@
       <div class="carousel-item carousel-item-next carousel-item-left">
         <img src="../images/banner/a-pergunta-definitiva-1900x400.jpg" />
         <div class="carousel-caption d-none d-md-block">
-          <h5>Descubra o poder do NPS</h5>
+          <h5 style="font-size: 2em!important;
+    			text-shadow: 0.1em 0.1em 0.1em white;">Descubra o poder do NPS</h5>
           <p>Ainda não conhece a metodologia NPS? Então saiba o que as grandes empresas como Amazon, Starbucks, e Nike estão usando para melhorar seus resultados.</p>
         </div>
       </div>
