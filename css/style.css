@@ -148,3 +148,6 @@ h2 {
 h1.mt-5 {
     color: #1C3997!important;
 }
+item.carousel-item-next.carousel-item-left img {
+    max-width: 100%;
+}
