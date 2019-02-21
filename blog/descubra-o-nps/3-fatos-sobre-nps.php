@@ -27,7 +27,7 @@
 				<h1 class="mt-5">3 fatos sobre NPS que você precisa saber</h1>
 				<small class="text-left">18 de fevereiro de 2019, Thamires Rocha, NPS</small>
 				<figure class="figure my-5">
-					<img src="images/post/o-basico-de-nps-800x600.jpg" class="figure-img img-fluid rounded" alt="[Fotografia] Pessoas caminham entre si em um local corporativo.">
+					<img src="../../images/post/o-basico-de-nps-800x600.jpg" class="figure-img img-fluid rounded" alt="[Fotografia] Pessoas caminham entre si em um local corporativo.">
 					<figcaption class="figure-caption">[Fotografia] Pessoas caminham entre si em um local corporativo. Em cima da cabeça de cada pessoa existe um balão de pensamento em cores que variam entre vermelho, cinza e verde. Abaixo da imagem estão mais três balões compondo o termo "NPS": primeiro balão, vermelho sinalizado com a letra "N", segundo balão, cinza, sinalizado com a letra "P", terceiro balão, verde, sinalizado com a letra "S".</figcaption>
 				</figure>
 					<section id="post">

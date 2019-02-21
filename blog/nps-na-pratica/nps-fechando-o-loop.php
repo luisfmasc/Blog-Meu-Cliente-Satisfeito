@@ -27,7 +27,7 @@
 				<h1 class="mt-5">NPS: Fechando o loop</h1> <!--sasd-->
 				<small>19 de fevereiro de 2019, Ivan Flecha, Fechando de Loop</small><br>
 				<figure class="figure my-5">
-					<img src="images/post/insatisfação.jpeg" class="figure-img img-fluid rounded" alt="#PraCegoVer: [Fotografia] Homem furioso grita ao telefone"> <!---->
+					<img src="../../images/post/insatisfação.jpeg" class="figure-img img-fluid rounded" alt="#PraCegoVer: [Fotografia] Homem furioso grita ao telefone"> <!---->
 					<figcaption class="figure-caption">#PraCegoVer: [Fotografia] Cliente furioso grita ao telefone.</figcaption>
 				</figure>
 				<p>Não há empresa, negócio ou profissional liberal que sobreviva ao <a href="nps-nas-empresas-brasileiras.php" target="_blank" rel="noopener">diferencial de qualidade do atendimento de seus concorrentes.</a> Os tempos mudaram, experiência do cliente é parte integrante de qualquer venda. Experiência é tudo - quem ainda compete através de preço e produto está no passado.Não há empresa, negócio ou profissional liberal que sobreviva ao diferencial de qualidade do atendimento de seus concorrentes. Os tempos mudaram, experiência do cliente é parte integrante de qualquer venda. Experiência é tudo - quem ainda compete através de preço e produto está no passado. Aqui vou te mostrar como fazer o Fechamento de Loop de acordo com as notas do NPS.</p>
