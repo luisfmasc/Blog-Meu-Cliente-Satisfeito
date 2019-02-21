@@ -6,8 +6,8 @@
 
 body {
 	font-family: 'Roboto', sans-serif;
-	color: #091744;
-	font-size: 1em;
+	color: #88F2EE;
+	font-size: 1.5em;
 	font-weight: 300;
 }
 footer {
@@ -87,3 +87,5 @@ a.AzulClaro:hover {
 #logo {
     margin-top: 3rem;
 }
+
+
