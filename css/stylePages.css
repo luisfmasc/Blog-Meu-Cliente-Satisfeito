@@ -30,7 +30,6 @@ h3 {
 a {
     color: #1C3997;
 }
-
 .bgAzulEscuro {
 	background-color: #1C3997;
 }
@@ -116,7 +115,6 @@ a.AzulClaro:hover {
     margin-top: 2em;
     
 }
-
 .azulClaro {
     width: 100%;
     background-color: #66f5f2;
@@ -127,5 +125,5 @@ a.AzulClaro:hover {
     border-color: #66f5f2;
     border-radius: 0.3rem;
     font-weight: 700;
-    margin-top: 2em;
+    margin: 2em 0em;
 }

@@ -30,7 +30,7 @@
 					<div class="negativo">
 						<p>Esse material é exclusivo para você que mata um leão por dia no mundo dos negócios e quer que sua marca seja referência no seu segmento. Com esse material vamos te ensinar táticas simples, eficaz e muito usada pelos grandes players do mercado para fidelizar seus clientes e ganhar muito mais dinheiro com isso, mesmo se você está começando agora e até para as grandes empresas que querem vender mais.  Tudo isso com uma metodologia descomplicada de coleta do feedback do cliente. Não deixe de pegar seu conteúdo GRATUITO e fazer parte desse grupo seleto das empresas mais rentáveis do mundo.</p>
                         <figure><img src="../images/logotipos.png" alt="Gráfico com logotipos de empresas que usan NPS" height="40" width="250" /></figure>
-                        <button class="azulClaro">Quero participar desse grupo agora</button>
+                        <button type="button" class="azulClaro" data-toggle="modal" data-target="#modalForm">Quero participar desse grupo agora</button>
 					</div>
 				</div>
 				<div id="form" class="col-md-5 col-md-offset-1" >
@@ -54,12 +54,63 @@
                         <li>Como agir para melhorar seus resultados;</li>
                         <li>Uma Planilha pronta para você começar a executar.</li>
                     </ol>
-                    <button class="azulEscuro">Ok, você me convenceu, me dá logo esse material!</button>
+                    <button type="button" class="azulEscuro" data-toggle="modal" data-target="#modalForm">Ok, você me convenceu, me dá logo esse material!</button>
                 </div>
 
 			</div>
 		</section>
-	<?php include ('../components/footerCompacto.php') ?> 
-  </body>
+    <div class="modal fade" id="modalForm" tabindex="-1" role="dialog" aria-labelledby="modalFormTitle" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content no-header">
+            <div class="close">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+            </button>
+            </div>
+          <div class="modal-body">
+            <section id="Form2">
+                <h1>Conteúdo exclusívo</h1>
+                <p>Inscreva-se em nossa newsletter para receber conteúdo gratuito sobre NPS e Gestão de Experiência.</p>
+                <form id="modal-contato">
+                    <div class="form-group">
+                        <input type="text" class="form-control" id="nomeSobrenome" placeholder="Seu nome e sobrenome" required>
+                    </div>
+                    <div class="form-group">
+                        <input type="email" class="form-control" id="Email1" aria-describedby="emailHelp" placeholder="E-mail" required>
+                    </div>
+                    <div class="clearfix"></div>
+                    <div class="pt-3 float-right">
+                        <button id="cancelaForm" data-dismiss="modal" class="btn btn-secondary" onClick="gtag('event', 'Formulário', {'event_category' : 'aside', event_label' : 'Desistiu'})">Não, obrigado (a)</button>
+                        <button id="enviarForm" type="submit" class="btn btn-primary" onClick="gtag('event', 'Formulário', {'event_category' : 'aside', event_label' : 'Cadastrou'})">Cadastrar</button>
+                    </div>
+                    <div class="clearfix"></div>
+                    <small class="float-right">Não se preocupe, não fazemos spam</small>
+                </form>
+            </section>
+            </div>
+        </div>
+      </div>
+    </div>
+<footer class="bgAzulEscuro">
+	<div class="container">
+		<div class="row">
+			<div class="col center" id="endereco" onClick="gtag('event', 'endereco', {'event_category' : 'footer', 'event_label' : 'selecionaEndereco'})">
+				<a class="AzulClaro" href="mailto:contato@meuclientesatisfeito.com">contato@meuclientesatisfeito.com</a>
+			</div>
+		</div>
+	</div>
+</footer>
+
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-social/5.1.1/bootstrap-social.min.css" integrity="sha256-rFMLRbqAytD9ic/37Rnzr2Ycy/RlpxE5QH52h7VoIZo=" crossorigin="anonymous" />
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+    
+	<script src="../js/docs.js"></script>   
+
+
+<!--Firebase assync-->
+<script src="https://www.gstatic.com/firebasejs/5.8.3/firebase.js"></script>
+<script src="../js/main.js"></script>  </body>
 
 </html>

@@ -17,6 +17,7 @@ var userIp;
 
 //Listen para o botão submit
 document.getElementById('contato').addEventListener('submit', submitForm);
+document.getElementById('modal-contato').addEventListener('submit', submitForm);
 
 function getIp(callback)
 {
