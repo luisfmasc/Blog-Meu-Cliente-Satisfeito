@@ -1,0 +1,82 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,700");
+@import url("font-awesome.css");
+
+body {
+	font-family: 'Roboto', sans-serif;
+	color: #091744;
+	font-size: 1em;
+	font-weight: 300;
+}
+footer {
+	min-height: 95px;
+	padding: 20px 0px;
+	font-size: 0.941em;
+	color: #fff;
+}
+h1 {
+	color: #FFFFFF;
+    font-weight: 700;
+}
+a:visited {
+	color: #88F2EE;
+}
+.bgAzulEscuro {
+	background-color: #1C3997;
+}
+.AzulEscuro {
+	color: #1C3997;
+}
+.bgAzulClaro{
+	background-color: #88F2EE;
+}
+.AzulClaro{
+	color: #88F2EE;
+}
+#bannerInstitucional {
+	background-image: url("../images/InstitucionalBg.png");
+	background-size: cover;
+}
+#Form2 .btn-primary {
+	background-color: #88F2EE ;
+	border-color: #88F2EE;
+	color: #1C3997;
+}
+#Form2 .form-control  {
+	border-top: 0px;
+	border-left: 0px;
+	border-right: 0px;
+	border-radius: 0px;
+}
+#Form2 .form-control  {
+	border-bottom: solid #707070 1px;
+}
+.no-header {
+    border-radius: 0.3rem;
+    padding: 2rem;
+}
+#FormOk{
+	background-color: #1C3997;
+    color: #FFFFFF;
+    text-align: center;
+}
+#FormErro{
+	background-color: #c41616;
+    color: #FFFFFF;
+    text-align: center;
+}
+#FormOk h1{
+    color: #88F2EE !important;
+    text-transform: none;
+    font-size: 3.5em;
+}
+#FormErro h1{
+    color: #EBB850 !important;
+    text-transform: none;
+    font-size: 3.5em;
+}
+a.AzulClaro:hover {
+    color: white;
+}
