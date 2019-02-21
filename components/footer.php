@@ -15,7 +15,7 @@
 			  <a class="btn btn-social-icon" href="https://www.instagram.com/meuclientesatisfeito/" target="_blank" onClick="gtag('event', 'botaoSocial', {'event_category' : 'footer', 'event_label' : 'instagram'})" title="Siga-nos no Instagram">
 				<span class="fa fa-instagram"></span>
 			  </a>
-			  <a class="btn btn-social-icon" href="https://www.linkedin.com/company/#" target="_blank" onClick="gtag('event', 'botaoSocial', {'event_category' : 'footer', 'event_label' : 'linkedin'})" title="Siga-nos no Linkedin">
+			  <a class="btn btn-social-icon" href="https://www.linkedin.com/company/meu-cliente-satisfeito/about/" target="_blank" onClick="gtag('event', 'botaoSocial', {'event_category' : 'footer', 'event_label' : 'linkedin'})" title="Siga-nos no Linkedin">
 				<span class="fa fa-linkedin"></span>
 			  </a>
                        

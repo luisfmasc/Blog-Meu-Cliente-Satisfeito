@@ -23,50 +23,20 @@
 <div id="carouselHome" class="carousel slide" data-ride="carousel">
     <ol class="carousel-indicators">
       <li data-target="#carouselHome" data-slide-to="0" class=""></li>
-      <li data-target="#carouselHome" data-slide-to="1" class=""></li>
-      <li data-target="#carouselHome" data-slide-to="2" class=""></li>
-      <li data-target="#carouselHome" data-slide-to="3" class="active"></li>
-      <li data-target="#carouselHome" data-slide-to="4" class=""></li>
     </ol>
     <div class="carousel-inner">
       
       
-      <div class="carousel-item active carousel-item-left">
-        <img src="images/banner/a-pergunta-definitiva-1900x400.jpg" />
-        <div class="carousel-caption d-none d-md-block">
-          <h5>Descubra o poder do NPS</h5>
-          <p>Lorem ipsum dolor sit amet, consectetur adipfgiscing elit.</p>
-        </div>
-      </div>
+      
       <div class="carousel-item carousel-item-next carousel-item-left">
-        <img src="images/banner/nps-nas-empresas-brasileiras-1900x400.jpg" />
+        <img src="../images/banner/a-pergunta-definitiva-1900x400.jpg" />
         <div class="carousel-caption d-none d-md-block">
           <h5>Descubra o poder do NPS</h5>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-        </div>
-      </div>
-      <div class="carousel-item carousel-item-next carousel-item-left">
-        <img src="images/banner/nps-o-que-e-1900x400.jpg" />
-        <div class="carousel-caption d-none d-md-block">
-          <h5>Descubra o poder do NPS</h5>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-        </div>
-      </div>
-      <div class="carousel-item carousel-item-next carousel-item-left">
-        <img src="images/banner/nps-por-onde-comecar-1900x400.jpg" />
-        <div class="carousel-caption d-none d-md-block">
-          <h5>Descubra o poder do NPS</h5>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-        </div>
-      </div>
-      <div class="carousel-item carousel-item-next carousel-item-left">
-        <img src="images/banner/o-basico-de-nps-1900x400.jpg" />
-        <div class="carousel-caption d-none d-md-block">
-          <h5>Descubra o poder do NPS</h5>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+          <p>Ainda não conhece a metodologia NPS? Então saiba o que as grandes empresas como Amazon, Starbucks, e Nike estão usando para melhorar seus resultados.</p>
         </div>
       </div>
       
+           
       
     </div>
     <a class="carousel-control-prev" href="#carouselHome" role="button" data-slide="prev">
