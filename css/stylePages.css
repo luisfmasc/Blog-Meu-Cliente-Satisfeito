@@ -80,3 +80,10 @@ a:visited {
 a.AzulClaro:hover {
     color: white;
 }
+.center {
+    text-align: center;
+    font-size: 1em;
+}
+#logo {
+    margin-top: 3rem;
+}
