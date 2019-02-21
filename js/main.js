@@ -16,8 +16,12 @@ let dados = firebase.database().ref('leads');
 var userIp;
 
 //Listen para o botão submit
+try{
 document.getElementById('contato').addEventListener('submit', submitForm);
+}catch(e){}
+try{
 document.getElementById('modal-contato').addEventListener('submit', submitForm);
+}catch(e){}
 
 function getIp(callback)
 {
