@@ -12,7 +12,7 @@
         <meta name="description" content="Você empreendedor que está na luta para conseguir mais clientes, oferecemos a você um conteúdo gratuito perfeito para facilitar seu entendimento e colocar na pratica o Net Promoter Score. Vai perder essa oportunidade?"/>
         <meta property="og:locale" content="pt_BR"/>
         <title>Conteúdo Gratuito | Meu cliente satisfeito </title>
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
         <link href="../css/stylePages.css" rel="stylesheet">
         <?php include('../components/analytics.html'); ?>
     </head>
