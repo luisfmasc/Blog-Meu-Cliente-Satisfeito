@@ -12,18 +12,18 @@
 	<meta property="description" content="Você sabe o quanto seu cliente está satisfeito com a empresa? Descubra o que é Net Promoter Score (NPS) e saiba porque é importante para o crescimento da empresa."/>
 	<title>NPS: O que é e porque é importante para sua empresa| Meu cliente satisfeito</title> <!---->
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
-	<link href="css/style.css" rel="stylesheet">
+	<link href="'../../css/style.css" rel="stylesheet">
 	<?php  $menuAtivo = 'post';
-	  include('components/analytics.html'); ?>
 	<script>
 		gtag( 'event', 'page_view', {
 			'send_to': 'AW-761531403',,
 		} );
 	</script>
+	  include('../../components/analytics.html'); ?>
 </head>
 <body>
 	<header>
-		<?php include('components/menu.php'); ?>
+		<?php include('../../components/menu.php'); ?>
 	</header>
 
 	<main id="post" class="container">
@@ -175,10 +175,10 @@
 				</ul>
 			</main>
 			<aside class="col-md-3 offset-md-1">
-				<?php include('components/sidebar.php'); ?>
+				<?php include('../../components/sidebar.php'); ?>
 			</aside>
 		</section>
 	</main>
-	<?php include('components/footer.php'); ?>
+	<?php include('../../components/footer.php'); ?>
 </body>
 </html>

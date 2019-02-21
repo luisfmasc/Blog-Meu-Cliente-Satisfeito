@@ -12,18 +12,18 @@
 	<meta property="description" content="Vale a pena praticar o NPS nas empresas brasileiras? A resposta é sim, nesse artigo vamos te dizer porquê!"/>
 	<title>5 Motivos | Meu cliente satisfeito</title> <!---->
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
-	<link href="css/style.css" rel="stylesheet">
+	<link href="'../../css/style.css" rel="stylesheet">
 	<?php  $menuAtivo = 'post';
-	  include('components/analytics.html'); ?>
 	<script>
 		gtag( 'event', 'page_view', {
 			'send_to': 'AW-761531403',,
 		} );
 	</script>
+	  include('../../components/analytics.html'); ?>
 </head>
 <body>
 	<header>
-		<?php include('components/menu.php'); ?>
+		<?php include('../../components/menu.php'); ?>
 	</header>
 
 	<main id="politica" class="container">
@@ -75,10 +75,10 @@
 				</ul>
 			</main>
 			<aside class="col-md-3 offset-md-1">
-				<?php include('components/sidebar.php'); ?>
+				<?php include('../../components/sidebar.php'); ?>
 			</aside>
 		</section>
 	</main>
-	<?php include('components/footer.php'); ?>
+	<?php include('../../components/footer.php'); ?>
 </body>
 </html>
