@@ -29,7 +29,7 @@
       
       
       <div class="carousel-item carousel-item-next carousel-item-left">
-        <img src="images/banner/nps-nas-empresas-brasileiras-1900x400.jpg" />
+        <img src="../images/banner/a-pergunta-definitiva-1900x400.jpg" />
         <div class="carousel-caption d-none d-md-block">
           <h5>Descubra o poder do NPS</h5>
           <p>Ainda não conhece a metodologia NPS? Então saiba o que as grandes empresas como Amazon, Starbucks, e Nike estão usando para melhorar seus resultados.</p>
