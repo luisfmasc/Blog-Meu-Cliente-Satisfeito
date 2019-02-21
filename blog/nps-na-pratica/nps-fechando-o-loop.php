@@ -12,18 +12,13 @@
 	<meta property="description" content="Vale a pena praticar o NPS nas empresas brasileiras? A resposta é sim, nesse artigo vamos te dizer porquê!"/>
 	<title>5 Motivos | Meu cliente satisfeito</title> <!---->
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
-	<link href="css/style.css" rel="stylesheet">
+	<link href="'../../css/style.css" rel="stylesheet">
 	<?php  $menuAtivo = 'post';
-	  include('components/analytics.html'); ?>
-	<script>
-		gtag( 'event', 'page_view', {
-			'send_to': 'AW-761531403',,
-		} );
-	</script>
+	  include('../../components/analytics.html'); ?>
 </head>
 <body>
 	<header>
-		<?php include('components/menu.php'); ?>
+		<?php include('../../components/menu.php'); ?>
 	</header>
 
 	<main id="politica" class="container">
@@ -32,7 +27,7 @@
 				<h1 class="mt-5">NPS: Fechando o loop</h1> <!--sasd-->
 				<small>19 de fevereiro de 2019, Ivan Flecha, Fechando de Loop</small><br>
 				<figure class="figure my-5">
-					<img src="images/post/insatisfação.jpeg" class="figure-img img-fluid rounded" alt="#PraCegoVer: [Fotografia] Homem furioso grita ao telefone"> <!---->
+					<img src="../../images/post/insatisfação.jpeg" class="figure-img img-fluid rounded" alt="#PraCegoVer: [Fotografia] Homem furioso grita ao telefone"> <!---->
 					<figcaption class="figure-caption">#PraCegoVer: [Fotografia] Cliente furioso grita ao telefone.</figcaption>
 				</figure>
 				<p>Não há empresa, negócio ou profissional liberal que sobreviva ao <a href="nps-nas-empresas-brasileiras.php" target="_blank" rel="noopener">diferencial de qualidade do atendimento de seus concorrentes.</a> Os tempos mudaram, experiência do cliente é parte integrante de qualquer venda. Experiência é tudo - quem ainda compete através de preço e produto está no passado.Não há empresa, negócio ou profissional liberal que sobreviva ao diferencial de qualidade do atendimento de seus concorrentes. Os tempos mudaram, experiência do cliente é parte integrante de qualquer venda. Experiência é tudo - quem ainda compete através de preço e produto está no passado. Aqui vou te mostrar como fazer o Fechamento de Loop de acordo com as notas do NPS.</p>
@@ -66,10 +61,10 @@
 				<p>O que resta você saber, que é o mais importante, é que todos os clientes do mundo QUEREM ser encantados e ESPERAM que você faça deles seus fãs. Implemente ferramentas para alcançar isso e jamais sofrerá de escassez, não importando o tamanho de crise econômica ou a situação do país.</p>
 			</main>
 			<aside class="col-md-3 offset-md-1">
-				<?php include('components/sidebar.php'); ?>
+				<?php include('../../components/sidebar.php'); ?>
 			</aside>
 		</section>
 	</main>
-	<?php include('components/footer.php'); ?>
+	<?php include('../../components/footer.php'); ?>
 </body>
 </html>
