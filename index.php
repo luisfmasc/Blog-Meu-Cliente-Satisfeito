@@ -29,7 +29,7 @@
       
       
       <div class="carousel-item carousel-item-next carousel-item-left">
-        <img src="../images/banner/a-pergunta-definitiva-1900x400.jpg" />
+        <img src="../images/banner/banner-home-nps.jpg" />
         <div class="carousel-caption d-none d-md-block">
           <h5 style="font-size: 2em!important;
     			text-shadow: 0.1em 0.1em 0.1em white;">Descubra o poder do NPS</h5>
