@@ -63,6 +63,9 @@ a {
 #Form2 .form-control  {
 	border-bottom: solid #707070 1px;
 }
+#Form2 h1 {
+    color: #1C3997;
+}
 .no-header {
     border-radius: 0.3rem;
     padding: 2rem;
