@@ -47,9 +47,9 @@ footer .btn {
 	color: #FFF;
 }
 #Form1 .btn-primary {
-	background-color: #88F2EE ;
-	border-color: #88F2EE;
-	color: #1C3997;
+	background-color: #1C3997 ;
+	border-color: #1C3997;
+	color: white;
 	float: right;
 }
 #Form2 .btn-primary {
