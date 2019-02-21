@@ -15,11 +15,6 @@
 	<link href="'../../css/style.css" rel="stylesheet">
 	<?php  $menuAtivo = 'post';
 	  include('analytics.html'); ?>
-	<script>
-		gtag( 'event', 'page_view', {
-			'send_to': 'AW-761531403',,
-		} );
-	</script>
 </head>
 <body>
 	<header>

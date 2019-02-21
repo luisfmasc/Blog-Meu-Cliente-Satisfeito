@@ -13,11 +13,6 @@
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
 	<link href="'../../css/style.css" rel="stylesheet">
 	<?php  $menuAtivo = 'post';
-	<script>
-		gtag( 'event', 'page_view', {
-			'send_to': 'AW-761531403',,
-		} );
-	</script>
 	  include('../../components/analytics.html'); ?>
 </head>
 <body>
