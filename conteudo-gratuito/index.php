@@ -14,13 +14,13 @@
         <title>Conteúdo Gratuito | Meu cliente satisfeito </title>
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
         <link href="https://meuclientesatisfeito.com/css/stylePages.css" rel="stylesheet">
-        <?php include('https://meuclientesatisfeito.com/components/components/analytics.html'); ?>
+        <?php include('https://meuclientesatisfeito.com/components/analytics.html'); ?>
     </head>
     <body>
 	<section id="bannerInstitucional">
 		<header class="container" >
 			<div id="logo" class="col-sm-3">
-				<img class="img-responsive" src="https://meuclientesatisfeito.com/components/images/logotipoClienteSatisfeitoNegativo.png" alt="Logotipo da Meu Cliente Satisfeito" height="100" />
+				<img class="img-responsive" src="https://meuclientesatisfeito.com/images/logotipoClienteSatisfeitoNegativo.png" alt="Logotipo da Meu Cliente Satisfeito" height="100" />
 			</div>
 		</header>
 		<section class="container">
@@ -29,12 +29,12 @@
 						<h1 class="grande longo">Um Cliente satisfeito é sua melhor estratégia de negócios!</h1>
 					<div class="negativo">
 						<p>Esse material é exclusivo para você que mata um leão por dia no mundo dos negócios e quer que sua marca seja referência no seu segmento. Com esse material vamos te ensinar táticas simples, eficaz e muito usada pelos grandes players do mercado para fidelizar seus clientes e ganhar muito mais dinheiro com isso, mesmo se você está começando agora e até para as grandes empresas que querem vender mais.  Tudo isso com uma metodologia descomplicada de coleta do feedback do cliente. Não deixe de pegar seu conteúdo GRATUITO e fazer parte desse grupo seleto das empresas mais rentáveis do mundo.</p>
-                        <figure><img src="https://meuclientesatisfeito.com/components/images/logotipos.png" alt="Gráfico com logotipos de empresas que usan NPS" height="40" width="250" /></figure>
+                        <figure><img src="https://meuclientesatisfeito.com/images/logotipos.png" alt="Gráfico com logotipos de empresas que usan NPS" height="40" width="250" /></figure>
                         <button type="button" class="azulClaro" data-toggle="modal" data-target="#modalForm">Quero participar desse grupo agora</button>
 					</div>
 				</div>
 				<div class="col-md-4 offset-md-1" >
-					<figure><img src="https://meuclientesatisfeito.com/components/images/mockup-book.png" alt="Gráfico ilustrando o e-book" width="100%" /></figure>
+					<figure><img src="https://meuclientesatisfeito.com/images/mockup-book.png" alt="Gráfico ilustrando o e-book" width="100%" /></figure>
 				</div>
 			</div>
 		</section>
