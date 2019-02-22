@@ -99,7 +99,7 @@ function submitForm(e){
     salvarDados(email,nome,userIp,tipo,stringTime);
     document.getElementById("email").value = "";
     document.getElementById("nome").value = "";
-    $('#modalOK').modal('show')
+    document.getElementById("enviarForm").disabled = true;
   }
   
   // Função para pegar os valores do formulario
