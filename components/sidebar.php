@@ -10,9 +10,28 @@
 		</div>
 		<button id="enviarForm" type="submit" class="btn btn-primary" onClick="gtag('event', 'Formulário', {'event_category' : 'aside', event_label' : 'Cadastrou'})">Cadastrar</button>
         <small>Não se preocupe, não fazemos spam</small>
-        <div class="sucesso" style="display: none">Cadastro realizado com sucesso!</div>
 	</form>
+    
+    <div class="modal fade sucesso" id="modalOk" tabindex="-1" role="dialog" aria-labelledby="modalOkTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div id="FormOk" class="modal-content no-header">
+        <div class="close">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+        </button>
+        </div>
+      <div class="modal-body">
+        <section class="p-5">
+            <h1>Obrigado ;)</h1>
+            <p>Seu cadastro foi realizado com sucesso!</p>
+        </section>
+        </div>
+    </div>
+  </div>
+</div>
 </section>
+
+
 <!--<section id="tagsSidebar" class="my-5 linha-baixo">
 	<h4>Tags</h4>
 	<ul class="numesTags list-inline">
