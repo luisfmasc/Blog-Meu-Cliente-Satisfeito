@@ -14,7 +14,7 @@
         <title>Conteúdo Gratuito | Meu cliente satisfeito </title>
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
         <link href="https://meuclientesatisfeito.com/css/stylePages.css" rel="stylesheet">
-        <?php include('https://meuclientesatisfeito.com/components/analytics.html'); ?>
+        <?php include('../components/analytics.html'); ?>
     </head>
     <body>
 	<section id="bannerInstitucional">
