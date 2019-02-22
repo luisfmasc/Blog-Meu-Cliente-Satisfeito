@@ -20,7 +20,7 @@
 	<section id="bannerInstitucional">
 		<header class="container" >
 			<div id="logo" class="col-sm-3">
-				<img class="img-responsive" src="https://meuclientesatisfeito.com/images/logotipoClienteSatisfeitoNegativo.png" alt="Logotipo da Meu Cliente Satisfeito" height="100" />
+				<a href="https://meuclientesatisfeito.com"> <img class="img-responsive" src="https://meuclientesatisfeito.com/images/logotipoClienteSatisfeitoNegativo.png" alt="Logotipo da Meu Cliente Satisfeito" height="100" /></a>
 			</div>
 		</header>
 		<section class="container">
