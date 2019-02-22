@@ -13,7 +13,7 @@
         <div class="sucesso" style="display: none">Cadastro realizado com sucesso!</div>
 	</form>
     
-    <div class="modal fade sucesso" id="modalOk" tabindex="-1" role="dialog" aria-labelledby="modalOkTitle" aria-hidden="true">
+    <div class="modal fade" id="modalOk" tabindex="-1" role="dialog" aria-labelledby="modalOkTitle" aria-hidden="true">
   <div class="modal-dialog modal-dialog-centered" role="document">
     <div id="FormOk" class="modal-content no-header">
         <div class="close">
@@ -52,21 +52,21 @@
 	<h4>Mais Lidas</h4>
 	<ul class="maisLidas list-unstyled">
 		<li class="media">
-			<img src="../../images/thumbs/nps-o-que-e-100x100.jpg" class=" mr-3" width="100" height="100" a href="../nps-o-que-e.php" onClick="gtag('event', 'maisLidas', {'event_category' : 'aside', event_label' : 'artigoImagem1'})">
+			<img src="https://meuclientesatisfeito.com/images/thumbs/nps-o-que-e-100x100.jpg" class=" mr-3" width="100" height="100" a href="../nps-o-que-e.php" onClick="gtag('event', 'maisLidas', {'event_category' : 'aside', event_label' : 'artigoImagem1'})">
 			<div class="media-body">
-				<h5><a href="../../blog/descubra-o-nps/nps-o-que-e.php" onClick="gtag('event', 'maisLidas', {'event_category' : 'aside', event_label' : 'artigoTitulo1'})">NPS: O que é e porque é importante para sua empresa</a></h5>
+				<h5><a href="https://meuclientesatisfeito.com/blog/descubra-o-nps/nps-o-que-e.php" onClick="gtag('event', 'maisLidas', {'event_category' : 'aside', event_label' : 'artigoTitulo1'})">NPS: O que é e porque é importante para sua empresa</a></h5>
 			</div>
 		</li>
 		<li class="media my-3">
-			<img src="../../images/thumbs/o-basico-de-nps-100x100.jpg" class=" mr-3" width="100" height="100" a href="../o-basico-de-nps.php" onClick="gtag('event', 'maisLidas', {'event_category' : 'aside', event_label' : 'artigoImagem2'})">
+			<img src="https://meuclientesatisfeito.com/images/thumbs/o-basico-de-nps-100x100.jpg" class=" mr-3" width="100" height="100" a href="../o-basico-de-nps.php" onClick="gtag('event', 'maisLidas', {'event_category' : 'aside', event_label' : 'artigoImagem2'})">
 			<div class="media-body">
-				<h5><a href="../../blog/descubra-o-nps/3-fatos-sobre-nps.php" onClick="gtag('event', 'maisLidas', {'event_category' : 'aside', event_label' : 'artigoTitulo2'})">O Básico de NPS Que Você Precisa Saber</a></h5>
+				<h5><a href="https://meuclientesatisfeito.com/blog/descubra-o-nps/3-fatos-sobre-nps.php" onClick="gtag('event', 'maisLidas', {'event_category' : 'aside', event_label' : 'artigoTitulo2'})">O Básico de NPS Que Você Precisa Saber</a></h5>
 			</div>
 		</li>
 		<li class="media my-3">
-			<img src="../../images/thumbs/nps-nas-empresas-brasileiras-100x100.jpg" class=" mr-3" width="100" height="100" a href="../nps-nas-empresas-brasileiras.php" onClick="gtag('event', 'maisLidas', {'event_category' : 'aside', event_label' : 'artigoImagem3'})">
+			<img src="https://meuclientesatisfeito.com/images/thumbs/nps-nas-empresas-brasileiras-100x100.jpg" class=" mr-3" width="100" height="100" a href="../nps-nas-empresas-brasileiras.php" onClick="gtag('event', 'maisLidas', {'event_category' : 'aside', event_label' : 'artigoImagem3'})">
 			<div class="media-body">
-				<h5><a href="../../blog/nps-na-pratica/nps-nas-empresas-brasileiras.php" onClick="gtag('event', 'maisLidas', {'event_category' : 'aside', event_label' : 'artigoTitulo3'})">5 Motivos para praticar o NPS nas empresas brasileiras</a></h5>
+				<h5><a href="https://meuclientesatisfeito.com/blog/nps-na-pratica/nps-nas-empresas-brasileiras.php" onClick="gtag('event', 'maisLidas', {'event_category' : 'aside', event_label' : 'artigoTitulo3'})">5 Motivos para praticar o NPS nas empresas brasileiras</a></h5>
 			</div>
 		</li>
 	</ul>
