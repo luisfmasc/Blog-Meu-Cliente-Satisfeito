@@ -85,6 +85,7 @@
                     </div>
                     <div class="clearfix"></div>
                     <small class="float-right">Não se preocupe, não fazemos spam</small>
+                    <div class="sucesso" style="display: none">Cadastro realizado com sucesso!</div>
                 </form>
             </section>
             </div>
