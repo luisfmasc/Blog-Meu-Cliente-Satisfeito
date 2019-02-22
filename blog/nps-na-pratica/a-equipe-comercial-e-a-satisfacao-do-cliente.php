@@ -24,13 +24,14 @@
 	<main id="politica" class="container">
 		<section class="row">
 			<main class="col-md-8">
-				<h1 class="mt-5">A equipe comercial e a satisfação do cliente como treinar seu time para melhorar o NPS
-| Meu cliente satisfeito</h1> <!---->
+				<h1 class="mt-5">A equipe comercial e a satisfação do cliente - como treinar seu time para melhorar o NPS</h1> <!---->
 				<small>21 de fevereiro de 2019, Nívia Freitas, NPS na prática</small><br>
 				<figure class="figure my-5">
-					<img src="../../images/post/especializar a equipe comercial" class="figure-img img-fluid rounded" alt="#PraCegoVer: [Fotografia] Duas pessoas num aperto de mãos e uma chave sendo entregue em gesto de confiança"> <!---->
+					<img src="../../images/post/especializar-a-equipe-comercial.png" class="figure-img img-fluid rounded" alt="#PraCegoVer: [Fotografia] Duas pessoas num aperto de mãos e uma chave sendo entregue em gesto de confiança"> <!---->
 					<figcaption class="figure-caption">#PraCegoVer: [Fotografia] Duas pessoas num aperto de mãos e uma chave sendo entregue em gesto de confiança</figcaption>
 				</figure>
+				<img src="/images/audio-mini.png" alt="Clique aqui para baixar este post em áudio e escutar quando quiser">
+				<audio src="/blog/nps-na-pratica/audio.mp3" preload="auto" controls download="Como especializar a equipe comercial.mp3"></audio><br><br>
 				<h1><p> A equipe comercial e a satisfação do cliente - como treinar seu time para melhorar o NPS</p></h1>
 				<p> Autoridades do ramo chamam-na de “o maior multiplicador de vendas” e, mesmo assim, grande parte das empresas brasileiras não adotam a <strong>especialização da equipe comercial</strong> como prioridade. Mas aqui vai uma dica preciosa: seu <strong>time de vendas está diretamente ligado à satisfação do cliente</strong>!</p>
 				<p> Pense na quantidade de engajamento que o time comercial precisa ter com a empresa e com o cliente para alcançar resultados e o quanto isso pode ajudar ou prejudicar a empresa.</p>
