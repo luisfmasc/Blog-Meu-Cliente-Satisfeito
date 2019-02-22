@@ -30,8 +30,6 @@
   </div>
 </div>
 </section>
-
-
 <!--<section id="tagsSidebar" class="my-5 linha-baixo">
 	<h4>Tags</h4>
 	<ul class="numesTags list-inline">
