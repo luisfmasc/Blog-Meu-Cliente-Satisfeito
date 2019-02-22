@@ -48,8 +48,8 @@
 				<p> Faça testes antes do envio e certifique-se que que as respostas estão sendo armazenadas de forma correta.</p>
 				<p> Acompanhe a taxa de resposta, caso a aderência esteja baixa, considere enviar um follow-up.</p>
 				<p> Caso você queira elaborar a pesquisa e coletar as respostas de maneira mais profissional sem precisar desenvolver uma plataforma própria, pode contar empresas que são referência: <a href="https://www.opinionbox.com/"> Opinion Box</a>,<a href="https://opinia.me/"> Opinia</a> e a <a href="https://tracksale.co/"> Tracksale.</a></p>
-				<b>5- Hora da verdade</b>
-				<p> Com resultados em mãos, identifique os perfis dos clientes </p><b>detratores, neutros e promotores</b><p> , defina planos de ação, foco nos clientes detratores e nas ações de melhorias.</p>
+				<h3><b>5- Hora da verdade</b></h3>
+				<p> Com resultados em mãos, identifique os perfis dos clientes <b>detratores, neutros e promotores</b> , defina planos de ação, foco nos clientes detratores e nas ações de melhorias.</p>
 				<p> Segmente os resultados de acordo sua necessidade, além do NPS global da sua empresa, você pode segmentar por região geográfica, por exemplo, e trabalhar com campanhas de marketing mais direcionadas.</p>
 			</main>
 			<aside class="col-md-3 offset-md-1">
