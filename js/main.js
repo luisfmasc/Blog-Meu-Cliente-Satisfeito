@@ -97,8 +97,8 @@ function submitForm(e){
     var tipo = b2cORb2b(email);
 
     salvarDados(email,nome,userIp,tipo,stringTime);
-    document.getElementById("email").value = "";
-    document.getElementById("nome").value = "";
+    document.getElementById("Email1").value = "";
+    document.getElementById("nomeSobrenome").value = "";
     document.getElementById("enviarForm").disabled = true;
   }
   
