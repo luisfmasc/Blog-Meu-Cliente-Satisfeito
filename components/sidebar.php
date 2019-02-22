@@ -31,7 +31,6 @@
 </div>
 </section>
 <!--<section id="tagsSidebar" class="my-5">
->>>>>>> master
 	<h4>Tags</h4>
 	<ul class="numesTags list-inline">
 		<li class="list-inline-item"><a href="#" onClick="gtag('event', 'numesTags', {'event_category' : 'aside', event_label' : 'Como funciona NPS'})">Como funciona NPS</a></li>
