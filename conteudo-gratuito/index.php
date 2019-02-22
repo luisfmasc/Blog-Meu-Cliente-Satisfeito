@@ -13,7 +13,7 @@
         <meta property="og:locale" content="pt_BR"/>
         <title>Conteúdo Gratuito | Meu cliente satisfeito </title>
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
-        <link href="https://meuclientesatisfeito.com/components/css/stylePages.css" rel="stylesheet">
+        <link href="https://meuclientesatisfeito.com/css/stylePages.css" rel="stylesheet">
         <?php include('https://meuclientesatisfeito.com/components/components/analytics.html'); ?>
     </head>
     <body>
@@ -106,5 +106,5 @@
 
     <!--Firebase -->
     <script src="https://www.gstatic.com/firebasejs/5.8.3/firebase.js"></script>
-    <script src="https://meuclientesatisfeito.com/components/js/main.js"></script>  </body>
+    <script src="https://meuclientesatisfeito.com/js/main.js"></script>  </body>
 </html>
