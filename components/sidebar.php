@@ -12,13 +12,6 @@
         <small>Não se preocupe, não fazemos spam</small>
         <div class="sucesso" style="display: none">Cadastro realizado com sucesso!</div>
 	</form>
-<script>
-$('#contato').submit(function(){
-   
-    $(this).find('.sucesso').fadeIn();
-     return false
-})
-</script>
 </section>
 <section id="tagsSidebar" class="my-5">
 	<h4>Tags</h4>
