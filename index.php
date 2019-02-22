@@ -29,10 +29,13 @@
       
       
       <div class="carousel-item carousel-item-next carousel-item-left">
-        <img src="../images/banner/banner-home-nps.jpg" style="max-width: 100%;">
+        <img src="../images/banner/home-nps.jpg" style="max-width: 100%;">
         <div class="carousel-caption d-none d-md-block">
-          <h5 style="font-size: 2em!important;
-    			text-shadow: 0.1em 0.1em 0.1em white;">Descubra o poder do NPS</h5>
+          <h5 style="
+    			font-size: 3em!important;
+    			font-weight: 800;
+    			color: white!important;
+    			">Descubra o poder do NPS</h5>
           <p>Ainda não conhece a metodologia NPS? Então saiba o que as grandes empresas como Amazon, Starbucks, e Nike estão usando para melhorar seus resultados.</p>
         </div>
       </div>

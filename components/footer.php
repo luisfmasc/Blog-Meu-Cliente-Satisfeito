@@ -2,7 +2,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-4" id="juridico">
-				<a href="../../politicas-de-privacidade.php" target="_blank" onClick="gtag('event', 'politica', {'event_category' : 'footer', 'event_label' : 'politicas'})">Política de Privacidade</a>
+				<a href="https://meuclientesatisfeito.com/politicas-de-privacidade.php" target="_blank" onClick="gtag('event', 'politica', {'event_category' : 'footer', 'event_label' : 'politicas'})">Política de Privacidade</a>
 			</div>
 			
 			<div class="col-md-5" id="endereco" onClick="gtag('event', 'endereco', {'event_category' : 'footer', 'event_label' : 'selecionaEndereco'})">
@@ -18,7 +18,6 @@
 			  <a class="btn btn-social-icon" href="https://www.linkedin.com/company/meu-cliente-satisfeito/about/" target="_blank" onClick="gtag('event', 'botaoSocial', {'event_category' : 'footer', 'event_label' : 'linkedin'})" title="Siga-nos no Linkedin">
 				<span class="fa fa-linkedin"></span>
 			  </a>
-                       
 			</div>			
 		</div>
 	</div>
@@ -29,7 +28,7 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
     
-	<script src="../../js/docs.js"></script>   
+	<script src="https://meuclientesatisfeito.com/js/docs.js"></script>   
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script>
     $(function(){
@@ -42,4 +41,4 @@
 
 <!--Firebase assync-->
 <script src="https://www.gstatic.com/firebasejs/5.8.3/firebase.js"></script>
-<script src="../../js/main.js"></script>
+<script src="https://meuclientesatisfeito.com/js/main.js"></script>
