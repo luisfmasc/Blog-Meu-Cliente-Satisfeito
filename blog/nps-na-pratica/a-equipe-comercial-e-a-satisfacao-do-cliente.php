@@ -25,7 +25,7 @@
 		<section class="row">
 			<main class="col-md-8">
 				<h1 class="mt-5">5 Motivos Para Praticar o NPS Nas Empresas Brasileiras| Meu cliente satisfeito</h1> <!---->
-				<small>19 de fevereiro de 2019, Luan Ciolette, NPS</small><br>
+				<small>19 de fevereiro de 2019, Luan Ciolette, NPS na prática</small><br>
 				<figure class="figure my-5">
 					<img src="https://meuclientesatisfeito.com/images/post/especializar a equipe comercial" class="figure-img img-fluid rounded" alt="#PraCegoVer: [Fotografia] Duas pessoas num aperto de mãos e uma chave sendo entregue em gesto de confiança"> <!---->
 					<figcaption class="figure-caption">#PraCegoVer: [Fotografia] Duas pessoas num aperto de mãos e uma chave sendo entregue em gesto de confiança</figcaption>

@@ -25,7 +25,7 @@
 		<section class="row">
 			<main class="col-md-8">
 				<h1 class="mt-5">NPS: O que é e porque é importante para sua empresa</h1>
-				<small>18 de fevereiro de 2019, Izabella Martins, NPS</small><br>
+				<small>18 de fevereiro de 2019, Izabella Martins, Descubra o NPS</small><br>
 				<figure class="figure my-5">
 					<img src="https://meuclientesatisfeito.com/images/post/nps-o-que-e-800x600.jpg" class="figure-img img-fluid rounded" alt="[Fotografia] Quatro pessoas sorriem segurando balões de fala">
 					<figcaption class="figure-caption">#PraCegoVer: [Fotografia] Quatro pessoas sorriem - sequência composta por uma mulher, um homem e duas mulheres, vestidos de maneira formal - segurando balões de fala feitos de papel que possuem formas e cores diferentes - balão de fala retangular e amarelo, balão de fala oval e verde, balão de fala retangular com bordas arredondadas, azul e balão de fala de papel azul turqueza.</figcaption>

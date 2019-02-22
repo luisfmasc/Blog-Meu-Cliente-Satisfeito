@@ -25,7 +25,7 @@
 		<section class="row">
 			<main class="col-md-8">
 				<h1 class="mt-5">NPS: Fechando o loop</h1> <!--sasd-->
-				<small>19 de fevereiro de 2019, Ivan Flecha, Fechando de Loop</small><br>
+				<small>19 de fevereiro de 2019, Ivan Flecha, NPS na prática: Fechando de Loop</small><br>
 				<figure class="figure my-5">
 					<img src="https://meuclientesatisfeito.com/images/post/insatisfação.jpeg" class="figure-img img-fluid rounded" alt="#PraCegoVer: [Fotografia] Homem furioso grita ao telefone"> <!---->
 					<figcaption class="figure-caption">#PraCegoVer: [Fotografia] Cliente furioso grita ao telefone.</figcaption>

@@ -24,7 +24,7 @@
 		<section class="row">
 			<main class="col-md-8">
 				<h1 class="mt-5">A pergunta definitiva</h1> <!---->
-				<small>18 de fevereiro de 2019, Ivan Flecha, Gestão de experiência do cliente</small><br>
+				<small>18 de fevereiro de 2019, Ivan Flecha, Descubra o NPS: Gestão de experiência do cliente</small><br>
 				<figure class="figure my-5">
 					<img src="https://meuclientesatisfeito.com/images\1_XkAbdFvgce6DzrLnS5rU6g.jpeg" class="figure-img img-fluid rounded" alt="Em uma escala de 0 a 10, qual a chance dos seus clientes indicarem sua empresa a um amigo ou colega?"> <!---->
 					<figcaption class="figure-caption">Em uma escala de 0 a 10, qual a chance dos seus clientes indicarem sua empresa a um amigo ou colega??</figcaption>
