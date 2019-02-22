@@ -97,6 +97,7 @@ function submitForm(e){
     var tipo = b2cORb2b(email);
 	document.getElementById('enviarForm').disabled = true;
     salvarDados(email,nome,userIp,tipo,stringTime);
+    document.getElementById("modal-contato").value = "";
   }
   
   // Função para pegar os valores do formulario
