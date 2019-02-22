@@ -95,9 +95,11 @@ function submitForm(e){
     ("0" + brtTime.getHours()).slice(-2) + ":" + ("0" + brtTime.getMinutes()).slice(-2) + ":" + ("0" + brtTime.getSeconds()).slice(-2);
  
     var tipo = b2cORb2b(email);
-    
-    document.getElementById("enviarForm").disabled = true;
+
     salvarDados(email,nome,userIp,tipo,stringTime);
+    document.getElementById("email").value = "";
+    document.getElementById("nome").value = "";
+    document.getElementById("enviarForm").disabled = true;
   }
   
   // Função para pegar os valores do formulario

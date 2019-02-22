@@ -37,14 +37,7 @@
             return false;
         }); 
     });
-    $(function(){
-        $('#modal-contato').submit(function(){
-            $(this).find('.sucesso').fadeIn();
-            return false;
-        }); 
-    });
 </script>
-
 
 <!--Firebase assync-->
 <script src="https://www.gstatic.com/firebasejs/5.8.3/firebase.js"></script>
