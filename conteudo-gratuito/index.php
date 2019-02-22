@@ -13,14 +13,14 @@
         <meta property="og:locale" content="pt_BR"/>
         <title>Conteúdo Gratuito | Meu cliente satisfeito </title>
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
-        <link href="../css/stylePages.css" rel="stylesheet">
-        <?php include('../components/analytics.html'); ?>
+        <link href="https://meuclientesatisfeito.com/css/stylePages.css" rel="stylesheet">
+        <?php include('https://meuclientesatisfeito.com/components/analytics.html'); ?>
     </head>
     <body>
 	<section id="bannerInstitucional">
 		<header class="container" >
 			<div id="logo" class="col-sm-3">
-				<img class="img-responsive" src="../images/logotipoClienteSatisfeitoNegativo.png" alt="Logotipo da Meu Cliente Satisfeito" height="100" />
+				<img class="img-responsive" src="https://meuclientesatisfeito.com/images/logotipoClienteSatisfeitoNegativo.png" alt="Logotipo da Meu Cliente Satisfeito" height="100" />
 			</div>
 		</header>
 		<section class="container">
@@ -29,12 +29,12 @@
 						<h1 class="grande longo">Um Cliente satisfeito é sua melhor estratégia de negócios!</h1>
 					<div class="negativo">
 						<p>Esse material é exclusivo para você que mata um leão por dia no mundo dos negócios e quer que sua marca seja referência no seu segmento. Com esse material vamos te ensinar táticas simples, eficaz e muito usada pelos grandes players do mercado para fidelizar seus clientes e ganhar muito mais dinheiro com isso, mesmo se você está começando agora e até para as grandes empresas que querem vender mais.  Tudo isso com uma metodologia descomplicada de coleta do feedback do cliente. Não deixe de pegar seu conteúdo GRATUITO e fazer parte desse grupo seleto das empresas mais rentáveis do mundo.</p>
-                        <figure><img src="../images/logotipos.png" alt="Gráfico com logotipos de empresas que usan NPS" height="40" width="250" /></figure>
+                        <figure><img src="https://meuclientesatisfeito.com/images/logotipos.png" alt="Gráfico com logotipos de empresas que usan NPS" height="40" width="250" /></figure>
                         <button type="button" class="azulClaro" data-toggle="modal" data-target="#modalForm">Quero participar desse grupo agora</button>
 					</div>
 				</div>
 				<div class="col-md-4 offset-md-1" >
-					<figure><img src="../images/mockup-book.png" alt="Gráfico ilustrando o e-book" width="100%" /></figure>
+					<figure><img src="https://meuclientesatisfeito.com/images/mockup-book.png" alt="Gráfico ilustrando o e-book" width="100%" /></figure>
 				</div>
 			</div>
 		</section>
@@ -100,16 +100,11 @@
 		</div>
 	</div>
 </footer>
-
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-social/5.1.1/bootstrap-social.min.css" integrity="sha256-rFMLRbqAytD9ic/37Rnzr2Ycy/RlpxE5QH52h7VoIZo=" crossorigin="anonymous" />
 	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
-    
-	<script src="../js/docs.js"></script>   
 
     <!--Firebase -->
     <script src="https://www.gstatic.com/firebasejs/5.8.3/firebase.js"></script>
-    <script src="../js/main.js"></script>  </body>
-
+    <script src="https://meuclientesatisfeito.com/js/main.js"></script>  </body>
 </html>

@@ -1,4 +1,4 @@
-<section id="Form1" class="my-5">
+<section id="Form1" class="linha-baixo">
 	<h4>Conteúdo exclusivo</h4>
 	<p>Inscreva-se em nossa newsletter para receber conteúdo gratuito sobre NPS e Gestão de Experiência.</p>
 	<form id="contato">
@@ -10,10 +10,27 @@
 		</div>
 		<button id="enviarForm" type="submit" class="btn btn-primary" onClick="gtag('event', 'Formulário', {'event_category' : 'aside', event_label' : 'Cadastrou'})">Cadastrar</button>
         <small>Não se preocupe, não fazemos spam</small>
-        <div class="sucesso" style="display: none">Cadastro realizado com sucesso!</div>
 	</form>
+    
+    <div class="modal fade sucesso" id="modalOk" tabindex="-1" role="dialog" aria-labelledby="modalOkTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div id="FormOk" class="modal-content no-header">
+        <div class="close">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+        </button>
+        </div>
+      <div class="modal-body">
+        <section class="p-5">
+            <h1>Obrigado ;)</h1>
+            <p>Seu cadastro foi realizado com sucesso!</p>
+        </section>
+        </div>
+    </div>
+  </div>
+</div>
 </section>
-<section id="tagsSidebar" class="my-5">
+<!--<section id="tagsSidebar" class="my-5">
 	<h4>Tags</h4>
 	<ul class="numesTags list-inline">
 		<li class="list-inline-item"><a href="#" onClick="gtag('event', 'numesTags', {'event_category' : 'aside', event_label' : 'Como funciona NPS'})">Como funciona NPS</a></li>
@@ -29,8 +46,8 @@
 		<li class="list-inline-item"><a href="#" onClick="gtag('event', 'numesTags', {'event_category' : 'aside', event_label' : 'Sucesso da marca'})">Sucesso da marca</a></li>
 		<li class="list-inline-item"><a href="#" onClick="gtag('event', 'numesTags', {'event_category' : 'aside', event_label' : 'Sucesso do cliente'})">Sucesso do cliente</a></li>
 	</ul>
-</section>
-<section id="maisLidas" class="my-5">
+</section>-->
+<section id="maisLidas">
 	<h4>Mais Lidas</h4>
 	<ul class="maisLidas list-unstyled">
 		<li class="media">

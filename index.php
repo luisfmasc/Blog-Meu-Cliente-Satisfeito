@@ -80,10 +80,10 @@
                 <div class="row">
                     
                     
-                    <div class="row postHome">                        
+                    <div class="row postHome linha-baixo">                        
                         <figure class="col-3">
                            <a href="https://meuclientesatisfeito.com/blog/descubra-o-nps/nps-o-que-e.php" onClick="gtag('event', 'Imagem', {'event_category' : 'posts', event_label' : 'Post1'})">
-                            <img src="images/post/nps-o-que-e-800x600.jpg" width="100%" class="img-thumbnail" /></a>
+                            <img src="images/thumbs/nps-o-que-e-100x100.jpg" width="100%" class="img-thumbnail" /></a>
                         </figure>
                         <div class="col-9">
                             <a href="https://meuclientesatisfeito.com/blog/descubra-o-nps/nps-o-que-e.php" onClick="gtag('event', 'Titulo', {'event_category' : 'posts', event_label' : 'Post1'})"><h3>NPS: O que é e porque é importante para sua empresa</h3></a>
@@ -92,7 +92,7 @@
                                 <a href="https://meuclientesatisfeito.com/blog/descubra-o-nps/nps-o-que-e.php" onClick="gtag('event', 'Leia Mais', {'event_category' : 'posts', event_label' : 'Post1'})">Leia Mais</a></button>
                         </div>
                     </div>
-                    <div class="row postHome">                        
+                    <div class="row postHome linha-baixo">                        
                         <figure class="col-3">
                             <a href="https://meuclientesatisfeito.com/blog/descubra-o-nps/3-fatos-sobre-nps.php" onClick="gtag('event', 'Imagem', {'event_category' : 'posts', event_label' : 'Post2'})">
                                 <img src="images/thumbs/o-basico-de-nps-100x100.jpg" width="100%" class="img-thumbnail" /></a>

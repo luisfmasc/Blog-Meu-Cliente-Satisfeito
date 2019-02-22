@@ -14,11 +14,11 @@
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
 	<link href="https://meuclientesatisfeito.com/css/style.css" rel="stylesheet">
 	<?php  $menuAtivo = 'post';
-	  include('../../components/analytics.html'); ?>
+	  include('https://meuclientesatisfeito.com/components/analytics.html'); ?>
 </head>
 <body>
 	<header>
-		<?php include('../../components/menu.php'); ?>
+		<?php include('https://meuclientesatisfeito.com/components/menu.php'); ?>
 	</header>
 
 	<main id="politica" class="container">
@@ -27,7 +27,7 @@
 				<h1 class="mt-5">5 Motivos Para Praticar o NPS Nas Empresas Brasileiras| Meu cliente satisfeito</h1> <!---->
 				<small>19 de fevereiro de 2019, Luan Ciolette, NPS</small><br>
 				<figure class="figure my-5">
-					<img src="../../images/post/especializar a equipe comercial" class="figure-img img-fluid rounded" alt="#PraCegoVer: [Fotografia] Duas pessoas num aperto de mãos e uma chave sendo entregue em gesto de confiança"> <!---->
+					<img src="https://meuclientesatisfeito.com/images/post/especializar a equipe comercial" class="figure-img img-fluid rounded" alt="#PraCegoVer: [Fotografia] Duas pessoas num aperto de mãos e uma chave sendo entregue em gesto de confiança"> <!---->
 					<figcaption class="figure-caption">#PraCegoVer: [Fotografia] Duas pessoas num aperto de mãos e uma chave sendo entregue em gesto de confiança</figcaption>
 				</figure>
 				<h1><p> A equipe comercial e a satisfação do cliente - como treinar seu time para melhorar o NPS</p></h1>
@@ -77,18 +77,18 @@
 				<p> “De 0 a 10, o quão satisfeito você está com o atendimento prestado pelo time de vendas?”</p>
 				<p> Além disso, métricas já mais conhecidas podem te dizer muito sobre a qualidade do time e a satisfação do seu cliente, como índice de reclamações, churn e inadimplência. </p>
 				<p> Viu porque a equipe comercial é peça importante na melhoria da satisfação dos clientes?</p>
-				<ul class="tagsFooter list-inline my-3">
+<!--				<ul class="tagsFooter list-inline my-3">
 					<li class="list-inline-item"><a href="#">NPS</a></li>
 					<li class="list-inline-item"><a href="#">NPS no Brasil</a></li>
 					<li class="list-inline-item"><a href="#">Satisfação de clientes</a></li>
 					<li class="list-inline-item"><a href="#">Sucesso da marca</a></li>
-				</ul>
+				</ul>-->
 			</main>
 			<aside class="col-md-3 offset-md-1">
-				<?php include('../../components/sidebar.php'); ?>
+				<?php include('https://meuclientesatisfeito.com/components/sidebar.php'); ?>
 			</aside>
 		</section>
 	</main>
-	<?php include('../../components/footer.php'); ?>
+	<?php include('https://meuclientesatisfeito.com/components/footer.php'); ?>
 </body>
 </html>
