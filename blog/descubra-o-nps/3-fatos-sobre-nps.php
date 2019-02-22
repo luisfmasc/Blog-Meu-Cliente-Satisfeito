@@ -14,11 +14,11 @@
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
 	<link href="https://meuclientesatisfeito.com/css/style.css" rel="stylesheet">
 	<?php  $menuAtivo = 'post';
-	  include('analytics.html'); ?>
+	  include('https://meuclientesatisfeito.com/components/analytics.html'); ?>
 </head>
 <body>
 	<header>
-		<?php include('../../components/menu.php'); ?>
+		<?php include('https://meuclientesatisfeito.com/components/menu.php'); ?>
 	</header>
 
 	<main class="container">
@@ -27,7 +27,7 @@
 				<h1 class="mt-5">3 fatos sobre NPS que você precisa saber</h1>
 				<small class="text-left">18 de fevereiro de 2019, Thamires Rocha, NPS</small>
 				<figure class="figure my-5">
-					<img src="../../images/post/o-basico-de-nps-800x600.jpg" class="figure-img img-fluid rounded" alt="[Fotografia] Pessoas caminham entre si em um local corporativo.">
+					<img src="https://meuclientesatisfeito.com/images/post/o-basico-de-nps-800x600.jpg" class="figure-img img-fluid rounded" alt="[Fotografia] Pessoas caminham entre si em um local corporativo.">
 					<figcaption class="figure-caption">[Fotografia] Pessoas caminham entre si em um local corporativo. Em cima da cabeça de cada pessoa existe um balão de pensamento em cores que variam entre vermelho, cinza e verde. Abaixo da imagem estão mais três balões compondo o termo "NPS": primeiro balão, vermelho sinalizado com a letra "N", segundo balão, cinza, sinalizado com a letra "P", terceiro balão, verde, sinalizado com a letra "S".</figcaption>
 				</figure>
 					<section id="post">
@@ -65,17 +65,17 @@
 						<p>E aí, pensando na realidade da sua empresa hoje, <b>seus clientes são Promotores ou Detratores?</b>
 						</p>
 		</section>
-				<ul class="tagsFooter list-inline my-3">
+<!--				<ul class="tagsFooter list-inline my-3">
 					<li class="list-inline-item"><a href="#">NPS</a></li>
 					<li class="list-inline-item"><a href="#">Promotores da marca</a></li>
 					<li class="list-inline-item"><a href="#">Satisfação de clientes	</a></li>
-				</ul>
+				</ul>-->
 			</main>
 			<aside class="col-md-3 offset-md-1">
-				<?php include('../../components/sidebar.php'); ?>
+				<?php include('https://meuclientesatisfeito.com/components/sidebar.php'); ?>
 			</aside>
 		</section>
 	</main>
-	<?php include('../../components/footer.php'); ?>
+	<?php include('https://meuclientesatisfeito.com/components/footer.php'); ?>
 </body>
 </html>

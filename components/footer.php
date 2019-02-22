@@ -2,7 +2,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-4" id="juridico">
-				<a href="../../politicas-de-privacidade.php" target="_blank" onClick="gtag('event', 'politica', {'event_category' : 'footer', 'event_label' : 'politicas'})">Política de Privacidade</a>
+				<a href="https://meuclientesatisfeito.com/politicas-de-privacidade.php" target="_blank" onClick="gtag('event', 'politica', {'event_category' : 'footer', 'event_label' : 'politicas'})">Política de Privacidade</a>
 			</div>
 			
 			<div class="col-md-5" id="endereco" onClick="gtag('event', 'endereco', {'event_category' : 'footer', 'event_label' : 'selecionaEndereco'})">

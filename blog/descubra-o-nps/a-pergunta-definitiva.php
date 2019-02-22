@@ -13,11 +13,11 @@
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
 	<link href="https://meuclientesatisfeito.com/css/style.css" rel="stylesheet">
 	<?php  $menuAtivo = 'post';
-	  include('../../components/analytics.html'); ?>
+	  include('https://meuclientesatisfeito.com/components/analytics.html'); ?>
 </head>
 <body>
 	<header>
-		<?php include('../../components/menu.php'); ?>
+		<?php include('https://meuclientesatisfeito.com/components/menu.php'); ?>
 	</header>
 
 	<main id="politica" class="container">
@@ -26,7 +26,7 @@
 				<h1 class="mt-5">A pergunta definitiva</h1> <!---->
 				<small>18 de fevereiro de 2019, Ivan Flecha, Gestão de experiência do cliente</small><br>
 				<figure class="figure my-5">
-					<img src="../../images\1_XkAbdFvgce6DzrLnS5rU6g.jpeg" class="figure-img img-fluid rounded" alt="Em uma escala de 0 a 10, qual a chance dos seus clientes indicarem sua empresa a um amigo ou colega?"> <!---->
+					<img src="https://meuclientesatisfeito.com/images\1_XkAbdFvgce6DzrLnS5rU6g.jpeg" class="figure-img img-fluid rounded" alt="Em uma escala de 0 a 10, qual a chance dos seus clientes indicarem sua empresa a um amigo ou colega?"> <!---->
 					<figcaption class="figure-caption">Em uma escala de 0 a 10, qual a chance dos seus clientes indicarem sua empresa a um amigo ou colega??</figcaption>
 				</figure>
 
@@ -48,7 +48,7 @@ Faça isso e ele logo estará disposto a compartilhar a boa experiência de como
 Se tiver tempo e disposição, coloque em prática um plano de ação para estimular o ex-detrator a compartilhar sua nova opinião nas mídias sociais.
 </p>
 <figure class="figure my-5">
-<img src="../../images\sorriso_satisfeito.jpg" class="figure-img img-fluid rounded" alt="Na teoria parece simples né? Mas pode realmente ser, se você tiver as soluções prontas que o mercado oferece. Continue lendo e verá.">
+<img src="https://meuclientesatisfeito.com/images\sorriso_satisfeito.jpg" class="figure-img img-fluid rounded" alt="Na teoria parece simples né? Mas pode realmente ser, se você tiver as soluções prontas que o mercado oferece. Continue lendo e verá.">
 <figcaption class="figure-caption">Na teoria parece simples né? Mas pode realmente ser, se você tiver as soluções prontas que o mercado oferece. Continue lendo e verá.
 </figcaption>
 </figure>
@@ -84,7 +84,7 @@ O NPS é o indicador chave de crescimento. Ele te dá a percepção geral de seu
 Lembra da imagem no começo do post?
 </p>
 <figure class="figure my-5">
-<img src="../../images\nps-02.jpg" class="figure-img img-fluid rounded" alt="Em uma escala de 0 a 10, qual a chance dos seus clientes indicarem sua empresa a um amigo ou colega?">
+<img src="https://meuclientesatisfeito.com/images\nps-02.jpg" class="figure-img img-fluid rounded" alt="Em uma escala de 0 a 10, qual a chance dos seus clientes indicarem sua empresa a um amigo ou colega?">
 <figcaption class="figure-caption">Em uma escala de 0 a 10, qual a chance dos seus clientes indicarem sua empresa a um amigo ou colega?</figcaption>
 </figure>
 <p>
@@ -115,7 +115,7 @@ Esteja sempre a par da opinião de seus clientes e poderá encontrar os pontos c
 </p>
 <p>
 <figure class="figure my-5">
-<img src="../../images\metrics.jpg" class="figure-img img-fluid rounded" alt="Evolução do NPS = Saúde de um negócio">
+<img src="https://meuclientesatisfeito.com/images\metrics.jpg" class="figure-img img-fluid rounded" alt="Evolução do NPS = Saúde de um negócio">
 <figcaption class="figure-caption">Evolução do NPS = Saúde de um negócio</figcaption>
 </figure>
 É importante entender que a qualidade de um produto é o maior diferencial comercial nos dias de hoje. Qualquer negócio que queira sobreviver precisará se esforçar para ser adorado pelos seus clientes. Acompanhar sempre a <b>evolução do seu NPS </b>é a melhor forma de conhecer a saúde de um negócio. SMS, e-mail, formulários na loja física e ligações são ferramentas de consulta ao cliente.
@@ -143,15 +143,15 @@ Esteja sempre a par da opinião de seus clientes e poderá encontrar os pontos c
 
 </p>
 
-				<ul class="tagsFooter list-inline my-3">
-					<li class="list-inline-item"><a href="#">Tag1</a></li> <!---->
-				</ul>
+<!--				<ul class="tagsFooter list-inline my-3">
+					<li class="list-inline-item"><a href="#">Tag1</a></li> 
+				</ul>-->
 			</main>
 			<aside class="col-md-3 offset-md-1">
-				<?php include('../../components/sidebar.php'); ?>
+				<?php include('https://meuclientesatisfeito.com/components/sidebar.php'); ?>
 			</aside>
 		</section>
 	</main>
-	<?php include('../../components/footer.php'); ?>
+	<?php include('https://meuclientesatisfeito.com/components/footer.php'); ?>
 </body>
 </html>
