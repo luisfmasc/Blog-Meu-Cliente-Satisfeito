@@ -53,7 +53,7 @@
 				<p><i>O cliente foi tratado com indiferença, algo aconteceu de errado ou foi insuficiente e você não prestou atenção a isso.</i></p>
 				<strong>Como proceder com esta nota?</strong>
 				<p>Humildade é a chave. Peça desculpas, solucione o problema se ele persistir e prove pra ele que o erro não irá se repetir, que os processos serão mudados para garantir a mudança.</p>
-				<h6>0,1,2 e 3 — Experiência terrível. O cliente prefere ir até outra cidade do que te contratar de novo. Ele pagaria o dobro do preço em qualquer concorrente só para te evitar.</h6>
+				<h6>0, 1, 2  e  3 — Experiência terrível. O cliente prefere ir até outra cidade do que te contratar de novo. Ele pagaria o dobro do preço em qualquer concorrente só para te evitar.</h6>
 				<strong>Como você conquistou esta nota?</strong>
 				<p><i>Estratégia errada e ações ruins criaram atrito em vários pontos de contato, criando uma experiência desagradabilíssima.</p></i>
 				<strong>Como proceder com esta nota?</strong>

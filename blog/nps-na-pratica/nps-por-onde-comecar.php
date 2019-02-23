@@ -36,7 +36,7 @@
 				<h3>2 - Onde a pesquisa será aplicada?</h3>
 				<p> Pense em qual canal de comunicação você utilizará, e-mail, SMS ou até mesmo através de uma Landing Page, pense de acordo com seu público  qual canal irá gerar mais engajamento e aderência.</p>
 				<h3>3 - Adapte as perguntas ao seu negócio</h3>
-				<p> De acordo com a realidade da sua empresa faça as adaptações na “pergunta definitiva”  como:</p>
+				<p> De acordo com a realidade da sua empresa faça as adaptações <a href="https://meuclientesatisfeito.com/blog/descubra-o-nps/a-pergunta-definitiva.php">na pergunta definitiva</a> como:</p>
 				<ul>
 					<li><p> o quão satisfeito você está com ________ ?</p></li>
 					<li><p> conte-nos como foi sua experiência no momento ________ ?</p></li>
@@ -47,7 +47,7 @@
 				<p> Após definir os passos acima, envie a pesquisa, é importante que o cliente reconheça sua empresa então identifique-se por meio da sua marca.</p>
 				<p> Faça testes antes do envio e certifique-se que que as respostas estão sendo armazenadas de forma correta.</p>
 				<p> Acompanhe a taxa de resposta, caso a aderência esteja baixa, considere enviar um follow-up.</p>
-				<p> Caso você queira elaborar a pesquisa e coletar as respostas de maneira mais profissional sem precisar desenvolver uma plataforma própria, pode contar empresas que são referência: <a href="https://www.opinionbox.com/"> Opinion Box</a>,<a href="https://opinia.me/"> Opinia</a> e a <a href="https://tracksale.co/"> Tracksale.</a></p>
+				<p> Caso você queira elaborar a pesquisa e coletar as respostas de maneira mais profissional sem precisar desenvolver uma plataforma própria, pode contratar empresas que são referência: <a href="https://www.opinionbox.com/"> Opinion Box</a>,<a href="https://opinia.me/"> Opinia</a> e a <a href="https://tracksale.co/"> Tracksale.</a></p>
 				<h3><b>5 - Hora da verdade</b></h3>
 				<p> Com resultados em mãos, identifique os perfis dos clientes <b>detratores, neutros e promotores</b>, defina planos de ação, foco nos clientes detratores e nas ações de melhorias.</p>
 				<p> Segmente os resultados de acordo sua necessidade, além do NPS global da sua empresa, você pode segmentar por região geográfica, por exemplo, e trabalhar com campanhas de marketing mais direcionadas.</p>
