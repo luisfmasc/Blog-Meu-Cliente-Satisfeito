@@ -75,7 +75,7 @@
                           <a href="https://www.meuclientesatisfeito.com/blog/nps-na-pratica/nps-por-onde-comecar.php" target="_blank">  <img src="images/thumbs/nps.png" width="100%" class="img-thumbnail" /></a>
                         </figure>
                         <div class="col-9">
-                            <h3>A Pergunta Definitiva</h2>
+                            <h3>Por Onde Começar a Aplicar NPS</h2>
                             <p>Quer aplicar o Net Promoter Score na sua empresa e não sabe por onde começar? Nesse post explico os cinco primeiros passos para implementar o NPS.</p>
                             <a href="https://www.meuclientesatisfeito.com/blog/nps-na-pratica/nps-por-onde-comecar.php" target="_blank">Leia Mais</a>
                         </div>
@@ -85,14 +85,14 @@
                           <a href="https://www.meuclientesatisfeito.com/blog/nps-na-pratica/nps-fechando-o-loop.php.php" target="_blank">  <img src="images/thumbs/insatisfação100x100.jpg" width="100%" class="img-thumbnail" /></a>
                         </figure>
                         <div class="col-9">
-                            <h3>A Pergunta Definitiva</h2>
+                            <h3>Fechando O Loop</h2>
                             <p>Os tempos mudaram, não há empresa, negócio ou profissional liberal que sobreviva ao diferencial de qualidade do atendimento de seus concorrentes.</p>
                             <a href="https://www.meuclientesatisfeito.com/blog/nps-na-pratica/nps-fechando-o-loop.php.php" target="_blank">Leia Mais</a>
                         </div>
 				    </div>
                     <div class="row postHome">                        
                         <figure class="col-3">
-                          <a href="https://www.meuclientesatisfeito.com/blog/nps-na-pratica/a-equipe-comercial-e-a-satisfacao-do-cliente.php" target="_blank">  <img src="images/thumbs/insatisfação100x100.jpg" width="100%" class="img-thumbnail" /></a>
+                          <a href="https://www.meuclientesatisfeito.com/blog/nps-na-pratica/a-equipe-comercial-e-a-satisfacao-do-cliente.php" target="_blank">  <img src="images/thumbs/spec100x100.png" width="100%" class="img-thumbnail" /></a>
                         </figure>
                         <div class="col-9">
                             <h3>A Equipe Comercial Especializada: Dominando Seus Nichos</h2>
