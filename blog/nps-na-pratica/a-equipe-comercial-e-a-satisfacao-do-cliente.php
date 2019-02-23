@@ -32,7 +32,6 @@
 				</figure>
 				<p> Autoridades do ramo chamam-na de “o maior multiplicador de vendas” e, mesmo assim, grande parte das empresas brasileiras não adotam a <strong>especialização da equipe comercial</strong> como prioridade. Mas aqui vai uma dica preciosa: seu <strong>time de vendas está diretamente ligado à satisfação do cliente</strong>!</p>
 				<p> Pense na quantidade de engajamento que o time comercial precisa ter com a empresa e com o cliente para alcançar resultados e o quanto isso pode ajudar ou prejudicar a empresa.</p>
-				<h2><b>A equipe comercial e a satisfação do cliente</b></h2>
 				<p> Vamos exemplificar:</p>
 				<p> Um time comercial qualificado é capaz de:</p>
 				<ul>
