@@ -12,7 +12,7 @@
 	<meta property="description" content="Você sabe o quanto seu cliente está satisfeito com a empresa? Descubra o que é Net Promoter Score (NPS) e saiba porque é importante para o crescimento da empresa."/>
 	<title>NPS: O que é e porque é importante para sua empresa| Meu cliente satisfeito</title> <!---->
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
-	<link href="https://meuclientesatisfeito.com/css/style.css" rel="stylesheet">
+	<link href="../../css/style.css" rel="stylesheet">
 	<?php  $menuAtivo = 'post';
 	  include('../../components/analytics.html'); ?>
 </head>
@@ -27,7 +27,7 @@
 				<h1 class="mt-5">NPS: O que é e porque é importante para sua empresa</h1>
 				<small>18 de fevereiro de 2019, Izabella Martins, Descubra o NPS</small><br>
 				<figure class="figure my-5">
-					<img src="https://meuclientesatisfeito.com/images/post/nps-o-que-e-800x600.jpg" class="figure-img img-fluid rounded" alt="[Fotografia] Quatro pessoas sorriem segurando balões de fala">
+					<img src="../../images/post/nps-o-que-e-800x600.jpg" class="figure-img img-fluid rounded" alt="[Fotografia] Quatro pessoas sorriem segurando balões de fala">
 					<figcaption class="figure-caption">#PraCegoVer: [Fotografia] Quatro pessoas sorriem - sequência composta por uma mulher, um homem e duas mulheres, vestidos de maneira formal - segurando balões de fala feitos de papel que possuem formas e cores diferentes - balão de fala retangular e amarelo, balão de fala oval e verde, balão de fala retangular com bordas arredondadas, azul e balão de fala de papel azul turqueza.</figcaption>
 				</figure>
 				<p>NPS é a sigla para <b>Net Promoter Score</b>, uma metodologia para medir o <b>grau de satisfação dos clientes</b> com a empresa. Em tradução direta, significa "Nota Média de Indicação" e retrata em números o quão seu cliente está satisfeito com o atendimento, produto ou serviço prestado, além do grau de lealdade e recorrência.</p>
