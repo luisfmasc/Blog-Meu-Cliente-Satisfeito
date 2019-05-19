@@ -8,11 +8,11 @@
 	<meta property="og:type" content="post"/>
 	<meta property="og:title" content="5 Motivos para praticar o NPS nas empresas brasileiras | Meu cliente satisfeito"/> <!---->
 	<meta property="og:description" content="Você já deve ter ouvido falar sobre NPS. Mas, vale a pena praticar o NPS nas empresas brasileiras? A resposta é sim, nesse artigo vamos te dizer porquê!"/> <!---->
-	<meta property="og:image" content="https://meuclientesatisfeito.com/images/institucional.png"/> <!--tumb-->
+	<meta property="og:image" content="../../images/institucional.png"/> <!--tumb-->
 	<meta property="description" content="Vale a pena praticar o NPS nas empresas brasileiras? A resposta é sim, nesse artigo vamos te dizer porquê!"/>
 	<title>5 Motivos | Meu cliente satisfeito</title> <!---->
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
-	<link href="https://meuclientesatisfeito.com/css/style.css" rel="stylesheet">
+	<link href="../../css/style.css" rel="stylesheet">
 	<?php  $menuAtivo = 'post';
 	  include('../../components/analytics.html'); ?>
 </head>
@@ -27,7 +27,7 @@
 				<h1 class="mt-5">NPS: Fechando o loop</h1> <!--sasd-->
 				<small>19 de fevereiro de 2019, Ivan Flecha, NPS na prática: Fechando de Loop</small><br>
 				<figure class="figure my-5">
-					<img src="https://meuclientesatisfeito.com/images/post/insatisfação.jpeg" class="figure-img img-fluid rounded" alt="#PraCegoVer: [Fotografia] Homem furioso grita ao telefone"> <!---->
+					<img src="../../images/post/insatisfação.jpeg" class="figure-img img-fluid rounded" alt="#PraCegoVer: [Fotografia] Homem furioso grita ao telefone"> <!---->
 					<figcaption class="figure-caption">#PraCegoVer: [Fotografia] Cliente furioso grita ao telefone.</figcaption>
 				</figure>
 				<p>Não há empresa, negócio ou profissional liberal que sobreviva ao <a href="nps-nas-empresas-brasileiras.php" target="_blank" rel="noopener">diferencial de qualidade do atendimento de seus concorrentes.</a> Os tempos mudaram, experiência do cliente é parte integrante de qualquer venda. Experiência é tudo - quem ainda compete através de preço e produto está no passado.Não há empresa, negócio ou profissional liberal que sobreviva ao diferencial de qualidade do atendimento de seus concorrentes. Os tempos mudaram, experiência do cliente é parte integrante de qualquer venda. Experiência é tudo - quem ainda compete através de preço e produto está no passado. Aqui vou te mostrar como fazer o Fechamento de Loop de acordo com as notas do NPS.</p>

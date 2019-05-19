@@ -8,7 +8,7 @@
 	<meta property="og:type" content="post"/>
 	<meta property="og:title" content="De 0 a 10, o quanto seu cliente está satisfeito com sua empresa? | Meu Cliente Satisfeito "/> <!---->
 	<meta property="og:description" content="Você sabe o quanto seu cliente está satisfeito com a empresa? Descubra o que é Net Promoter Score (NPS) e saiba porque é importante para o crescimento da empresa."/>
-	<meta property="og:image" content="https://meuclientesatisfeito.com/images/post/nps-o-que-e-800x600.jpg"/> <!--tumb-->
+	<meta property="og:image" content="../../images/post/nps-o-que-e-800x600.jpg"/> <!--tumb-->
 	<meta property="description" content="Você sabe o quanto seu cliente está satisfeito com a empresa? Descubra o que é Net Promoter Score (NPS) e saiba porque é importante para o crescimento da empresa."/>
 	<title>NPS: O que é e porque é importante para sua empresa| Meu cliente satisfeito</title> <!---->
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">

@@ -8,11 +8,11 @@
 	<meta property="og:type" content="post"/>
 	<meta property="og:title" content="De 0 a 10, o quanto seu cliente está satisfeito com sua empresa? | Meu Cliente Satisfeito "/> <!---->
 	<meta property="og:description" content="Você sabe o quanto seu cliente está satisfeito com a empresa? Descubra o que é Net Promoter Score (NPS) e saiba porque é importante para o crescimento da empresa."/>
-	<meta property="og:image" content="https://meuclientesatisfeito.com/images/post/nps-o-que-e-800x600.jpg"/> <!--tumb-->
+	<meta property="og:image" content="../../images/post/nps-o-que-e-800x600.jpg"/> <!--tumb-->
 	<meta property="description" content="Você sabe o quanto seu cliente está satisfeito com a empresa? Descubra o que é Net Promoter Score (NPS) e saiba porque é importante para o crescimento da empresa."/>
 	<title>Como implementar o NPS sem erros| Meu cliente satisfeito</title> <!---->
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
-	<link href="https://meuclientesatisfeito.com/css/style.css" rel="stylesheet">
+	<link href="../../css/style.css" rel="stylesheet">
 	<?php  $menuAtivo = 'post';
 	  include('../../components/analytics.html'); ?>
 </head>
@@ -27,7 +27,7 @@
 				<h1 class="mt-5">Como implementar o NPS sem erros</h1>
 				<small>22 de fevereiro de 2019, Ivan Flecha, NPS na prática: Como implementá-lo sem erros</small><br>
 				<figure class="figure my-5">
-					<img src="/images/post/nps-sem-erros.jpg" class="figure-img img-fluid rounded" alt="#PraCegoVer:[Fotografia] Um avião entre ávores, impossibilitado de decolar pela floresta">
+					<img src="../../images/post/nps-sem-erros.jpg" class="figure-img img-fluid rounded" alt="#PraCegoVer:[Fotografia] Um avião entre ávores, impossibilitado de decolar pela floresta">
 					<figcaption class="figure-caption">#PraCegoVer: [Fotografia] Um avião entre ávores, impossibilitado de decolar pela floresta</figcaption>
 				</figure>
 					<p>A primeira atitude a se tomar ao implementar o NPS é tomar cuidado com as quatro miopias do mercado:</p>

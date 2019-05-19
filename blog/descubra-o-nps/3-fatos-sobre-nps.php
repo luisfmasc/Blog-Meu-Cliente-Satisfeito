@@ -8,11 +8,11 @@
 	<meta property="og:type" content="post"/>
 	<meta property="og:title" content="Já sabe o que é NPS? Veja as 3 coisas que você precisa saber agora!  | Meu Cliente Satisfeito"/>
 	<meta property="og:description" content="Conheça #3 fatos sobre NPS que te ajudarão a entender melhor esta tecnologia. Como surgiu, como medir e com qual frequência pode ser aplicado."/>
-	<meta property="og:image" content="https://meuclientesatisfeito.com/images/post/o-basico-de-nps-800x600.jpg"/>
+	<meta property="og:image" content="../../images/post/o-basico-de-nps-800x600.jpg"/>
 	<meta property="description" content="Conheça #3 fatos sobre NPS que te ajudarão a entender melhor esta tecnologia. Como surgiu, como medir e com qual frequência pode ser aplicado."/>
 	<title>3 fatos sobre NPS que você precisa saber | Meu cliente satisfeito</title>
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
-	<link href="https://meuclientesatisfeito.com/css/style.css" rel="stylesheet">
+	<link href="../../css/style.css" rel="stylesheet">
 	<?php  $menuAtivo = 'post';
 	  include('../../components/analytics.html'); ?>
 </head>
@@ -27,7 +27,7 @@
 				<h1 class="mt-5">3 fatos sobre NPS que você precisa saber</h1>
 				<small class="text-left">18 de fevereiro de 2019, Thamires Rocha, Descubra o NPS</small>
 				<figure class="figure my-5">
-					<img src="https://meuclientesatisfeito.com/images/post/o-basico-de-nps-800x600.jpg" class="figure-img img-fluid rounded" alt="[Fotografia] Pessoas caminham entre si em um local corporativo.">
+					<img src="../../images/post/o-basico-de-nps-800x600.jpg" class="figure-img img-fluid rounded" alt="[Fotografia] Pessoas caminham entre si em um local corporativo.">
 					<figcaption class="figure-caption">[Fotografia] Pessoas caminham entre si em um local corporativo. Em cima da cabeça de cada pessoa existe um balão de pensamento em cores que variam entre vermelho, cinza e verde. Abaixo da imagem estão mais três balões compondo o termo "NPS": primeiro balão, vermelho sinalizado com a letra "N", segundo balão, cinza, sinalizado com a letra "P", terceiro balão, verde, sinalizado com a letra "S".</figcaption>
 				</figure>
 					<section id="post">

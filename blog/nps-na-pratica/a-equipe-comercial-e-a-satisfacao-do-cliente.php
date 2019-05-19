@@ -8,11 +8,11 @@
 	<meta property="og:type" content="post"/>
 	<meta property="og:title" content="5 Motivos para praticar o NPS nas empresas brasileiras | Meu cliente satisfeito"/> <!---->
 	<meta property="og:description" content="Você já deve ter ouvido falar sobre NPS. Mas, vale a pena praticar o NPS nas empresas brasileiras? A resposta é sim, nesse artigo vamos te dizer porquê!"/> <!---->
-	<meta property="og:image" content="https://meuclientesatisfeito.com/images/institucional.png"/> <!--tumb-->
+	<meta property="og:image" content="../../images/institucional.png"/> <!--tumb-->
 	<meta property="description" content="Vale a pena praticar o NPS nas empresas brasileiras? A resposta é sim, nesse artigo vamos te dizer porquê!"/>
 	<title>A EQUIPE COMERCIAL E A SATISFAÇÃO DO CLIENTE - COMO TREINAR SEU TIME PARA MELHORAR O NPS| Meu cliente satisfeito</title> <!---->
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
-	<link href="https://meuclientesatisfeito.com/css/style.css" rel="stylesheet">
+	<link href="../../css/style.css" rel="stylesheet">
 	<?php  $menuAtivo = 'post';
 	  include('../../components/analytics.html'); ?>
 </head>
